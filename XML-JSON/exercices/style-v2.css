@@ -1,0 +1,28 @@
+html, body, pre {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	text-align: center;
+	color : #535b60; 
+	background-color: #FAFAFA;
+}
+     
+table { 
+        margin: 0 auto;
+        border-collapse: collapse; text-align: center; 
+        padding: 1px 10px;
+
+}
+tr:nth-child(1) {
+        background-color: #4f8db3;
+        font-size: 20px;
+        color: #FAFAFA;
+        }
+        th, td {
+        padding: 10px;
+        text-align: center;
+        
+        }
+        tr:nth-child(even) {
+        background-color: AliceBlue
+        }
+        

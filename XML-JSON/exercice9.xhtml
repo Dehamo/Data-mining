@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//FR" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+
+    <head>
+        <!-- Title -->
+        <title>Documents structurés</title>
+        <!-- Meta -->
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="description" content="Documents structurés" />
+        <meta name="author" content="Dehareng Morgane" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+        <!-- Favicon -->
+        <link href="assets/img/favicon.ico" rel="shortcut icon" />
+        <!-- Bootstrap Core CSS -->
+        <link rel="stylesheet" href="assets/css/bootstrap.css" />
+        <!-- Template CSS -->
+        <link rel="stylesheet" href="assets/css/animate.css" />
+        <link rel="stylesheet" href="assets/css/font-awesome.css" />
+        <link rel="stylesheet" href="assets/css/nexus.css" />
+        <link rel="stylesheet" href="assets/css/responsive.css" />
+        <link rel="stylesheet" href="assets/css/custom.css" />
+        <!-- Google Fonts-->
+        <link href="http://fonts.googleapis.com/css?family=Raleway:100,300,400" type="text/css" rel="stylesheet" />
+        <link href="http://fonts.googleapis.com/css?family=Roboto:400,300" type="text/css" rel="stylesheet" />
+    </head>
+    <body>
+                
+       
+        <!-- Header -->
+        <div id="header" style="background-position: 50% 0%; height:50% 0%;" data-stellar-background-ratio="0.5">
+            <div class="container">
+                <div class="row">
+                    <!-- Logo -->
+                    <div class="logo">
+                        <a href="index.html" title="">
+                            <img src="assets/img/logo.png" alt="Logo" />
+                        </a>
+                    </div>
+                    <!-- End Logo -->
+                </div>
+                <!-- Top Menu -->
+                <div id="hornav" class="row text-light">
+                    <div class="col-md-12">
+                        <div class="text-center visible-lg">
+                            <ul id="hornavmenu" class="nav navbar-nav">
+                                <li>
+                                    <a href="index.xhtml" class="fa-home ">Accueil</a>
+                                </li>
+                                <li>
+                                    <a href="https://xmlprojet.wordpress.com/" class="fa-font" target="_blank">Blog</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+               <!-- End Top Menu -->
+            </div>
+        </div>
+        <!-- End Header -->
+
+         <!-- === BEGIN CONTENT === -->
+        <div id="welcome" class="background-white">
+            <div class="container">
+                <div class="row margin-vert-40">
+                    <!-- Main Text -->
+                    <div class="col-md-12">
+                        <h2 class="text-center article-title">Le musée des Augustins</h2>
+                        <p class="text-justify">La quasi-totalité des collections conservées au musée des Augustins est accessible par moteur de recherche à cette <a href="http://www.augustins.org/les-collections/documentation/base-de-donnees" target="_blank"><u>adresse</u></a>. On peut ainsi accéder à l'<a href="https://data.toulouse-metropole.fr/explore/dataset/collections-du-musee-des-augustins-ville-detoulouse/" target="_blank"><u>inventaire</u></a> des oeuvres acquises par le musée des Augustins depuis sa création en 1793. On trouvera sur ce site différents formats pour cet inventaire. On récupèrera notamment le fichier au format <a href="exercices/augustins.json" target="_blank"><u>JSON</u> </a>.
+                         Une autre version de cet inventaire au format <a href="exercices/augustins.xml" target="_blank"><u>XML</u> </a>est également disponible.</p>
+                        <p class="text-justify">
+                        <ul class="disc">
+						        <li><p>Choisir quelques entrées communes à l'inventaire au format XML et au même inventaire au format JSON.</p>
+                                <ul class="disc">
+                                    <li>Faire une brève présentation de JSON.</li>
+                                    <p class="text-justify">JavaScript Object Notation (JSON) est un format de données textuelles dérivé de la notation des objets du langage JavaScript. Comme XML, il permet de représenter de l’information structurée. Un document JSON a pour fonction de représenter de l'information accompagnée d'étiquettes permettant d'en interpréter les divers éléments, sans aucune restriction sur le nombre de celles-ci. Un document JSON ne comprend que deux types d'éléments structurels : des ensembles de paires nom / valeur et des listes ordonnées de valeurs. Ces mêmes éléments représentent trois types de données : des objets, des tableaux ou des valeurs génériques de type tableau, objet, booléen, nombre, chaîne ou null. <i>(source : Wikipédia)</i></p>
+                                    <li>Comparez les différentes entrées en parallèle.</li>
+                                    <p class="text-justify"><p></p>
+                                    <ul clas="disc">
+                                        <li><p>Ressemblances</p>
+                                        <p class="justify">Commme précisé dans la présentation de JSON, les formats JDSON et XML permettent de stocker de l'information structurée mais pas sous la même forme. Ainsi, on trouve dans le fichier XML l'équivalent de la paire clé/valeur "domaine":"Sculpture" en JSON sous la forme de l'ensemble balises/contenu &#60;domaine&#62;Sculpture&#60;/domaine&#62;.</p>
+                                        </li>
+                                        <li><p>Différences</p>
+                                        <p class="justify">Outre le nommage différent (par exemple mesure_3 en JSON et mesure3 en XML), certaines entrées ne stockent pas les mêmes informations.  Ainsi, l'entrée "image" est plus développée en JSON qu'en XML <i>({"format": "JPEG", "thumbnail": true, "height": 1200, "width": 802, "filename": "066-119.jpg", "id": "68a3239dce120322b8794ac1cd6d867f"})</i>.</p>
+                                        </li>
+                                    </ul>    
+                                    </p>
+                                </ul>
+                                </li>
+                                <li>&#192; partir de l'inventaire fourni au format XML, construire sa DTD.
+                                <p><br /><a href="exercices/augustins.dtd" target="_blank"><img src="assets/img/typo/note.png" />Voir la DTD</a></p><br />
+                                </li>
+                                <li>&#192; partir de l'inventaire fourni au format XML, construire une feuille de styles XSLT minimale pour afficher "proprement" le contenu de l'inventaire au format HTML en classant les oeuvres par auteur.
+                                <p><br /><a href="exercices/augustins-v1.xsl" target="_blank"><img src="assets/img/typo/note.png" />Voir la feuille de style</a></p>
+                                <p><a href="exercices/augustins-v1.xml" target="_blank"><img src="assets/img/typo/internet.png" />Voir le résultat</a></p><br />
+                                </li>
+                                <li>Construire une feuille de styles XSLT permettant de n'afficher quer les références des oeuvres (n&#186; d'inventaire par exemple) et l'auteur
+                                <p><br /><a href="exercices/augustins-v2.xsl" target="_blank"><img src="assets/img/typo/note.png" />Voir la feuille de style</a></p>
+                                <p><a href="exercices/augustins-v2.xml" target="_blank"><img src="assets/img/typo/internet.png" />Voir le résultat</a></p><br />
+                                </li>
+                                <li>&#192; partir de la feuille de styles précédente, ajoutez une fonctionnalité permettant d'afficher le contenu complet d'une seule entrée.
+                                <p><br /><a href="exercices/augustins-v3.xsl" target="_blank"><img src="assets/img/typo/note.png" />Voir la feuille de style</a></p>
+                                <p><a href="exercices/augustins-v3.xml" target="_blank"><img src="assets/img/typo/internet.png" />Voir le résultat</a></p><br />
+                                </li>
+                                <li>Construire un programme (perl, python, ...) permettant de passer du format JSON disponible en ligne ci-dessus vers un fichier au format XML pour produire un nouvel état de l'inventaire au format XML.
+                                <p><br /><a href="exercices/augustins.txt" target="_blank"><img src="assets/img/typo/note.png" />Voir le code Perl</a></p>
+                                <p><a href="exercices/augustins-v4.xml" target="_blank"><img src="assets/img/typo/note.png" />Voir le résultat</a></p>
+                                </li>
+					       </ul>
+                        </p>
+                    </div>
+                    <!-- End Main Text -->
+                </div>
+            </div>
+        </div>
+
+    
+        <!-- Footer -->
+        <div id="footer" >
+            <div class="container no-padding">
+                <div class="row">
+                    <!-- Copyright -->
+                    <div id="copyright">
+                        <p>&#169; 2017 Dehareng Morgane - Master Tal</p>
+                    </div>
+                    <!-- End Copyright -->
+                </div>
+            </div>
+        </div>
+            <!-- End Footer -->
+            <!-- JS -->
+            <script type="text/javascript" src="assets/js/jquery.min.js"></script>
+            <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+            <script type="text/javascript" src="assets/js/scripts.js"></script>
+            <!-- Isotope - Portfolio Sorting -->
+            <script type="text/javascript" src="assets/js/jquery.isotope.js"></script>
+            <!-- Mobile Menu - Slicknav -->
+            <script type="text/javascript" src="assets/js/jquery.slicknav.js"></script>
+            <!-- Animate on Scroll-->
+            <script type="text/javascript" src="assets/js/jquery.visible.js" charset="utf-8"></script>
+            <!-- Stellar Parallax -->
+            <script type="text/javascript" src="assets/js/jquery.stellar.js" charset="utf-8"></script>
+            <!-- Sticky Div -->
+            <script type="text/javascript" src="assets/js/jquery.sticky.js" charset="utf-8"></script>
+            <!-- Slimbox2-->
+            <script type="text/javascript" src="assets/js/slimbox2.js" charset="utf-8"></script>
+            <!-- Modernizr -->
+            <script src="assets/js/modernizr.custom.js" type="text/javascript"></script>
+            <!-- End JS -->
+    </body>
+</html>
+<!-- === END FOOTER === -->

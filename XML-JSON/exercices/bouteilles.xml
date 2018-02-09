@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Bouteilles>
+
+    <bouteille marque='Cristaline'>
+        <contenance>150 cl</contenance>
+        <source>St-Cyr la Source</source>
+        <localisation>Loiret</localisation>
+        <codeBarre>3274080005003</codeBarre>
+        <ph>7.45</ph> 
+        <calcium>71 mg/l</calcium>
+        <magnésium>5.5 mg/l</magnésium>
+        <chlorures>20 mg/l</chlorures> 
+        <nitrates>1 mg/l</nitrates>
+        <autresComposants>fer en suspension</autresComposants>
+    </bouteille>
+
+    <bouteille marque='Cristaline'>
+        <contenance>50 cl</contenance>
+        <source>Aurèle</source>
+        <localisation>Alpes Maritimes</localisation>
+        <codeBarre>3268840001008</codeBarre>
+        <ph>7.4</ph> 
+        <calcium>98 mg/l</calcium>
+        <magnésium>4 mg/l</magnésium>
+        <chlorures>3.6 mg/l</chlorures> 
+        <nitrates>2 mg/l</nitrates>
+        <autresComposants> </autresComposants>
+    </bouteille>
+
+    <bouteille marque='Volvic'>
+        <contenance>50 cl</contenance>
+        <source>Volvic</source>
+        <localisation>Puy-de-Dôme</localisation>
+        <codeBarre>3057640117008</codeBarre>
+        <ph>7</ph> 
+        <calcium>11.5 mg/l</calcium>
+        <magnésium>8 mg/l</magnésium>
+        <chlorures>13.5 mg/l</chlorures> 
+        <nitrates>6.3 mg/l</nitrates>
+        <autresComposants>particules de silice</autresComposants>
+    </bouteille>
+
+</Bouteilles>

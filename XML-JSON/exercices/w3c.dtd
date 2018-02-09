@@ -1,0 +1,11 @@
+<!ELEMENT doc (author | taggersent)+>
+<!ELEMENT author (name | degree | school | email)+>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT degree (#PCDATA)>
+<!ELEMENT school (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT taggersent (taggertoken)+>
+<!ATTLIST taggertoken wordform CDATA #REQUIRED>
+<!ATTLIST taggertoken lemma CDATA #REQUIRED>
+<!ATTLIST taggertoken pos CDATA #REQUIRED>
+<!ELEMENT taggertoken (#PCDATA)>

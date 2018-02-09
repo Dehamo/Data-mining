@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE bibliographie SYSTEM "biblio-v2.dtd">
+
+<bibliographie>
+    <livres>
+        <livre id="numero du livre"> 
+            <titre soustitre="sous-titre du livre"></titre>
+            <noms_auteurs></noms_auteurs>
+            <tome id="numéro du tome" name="nom du tome" nb_pages="nombre de pages" soustitre="sous-titre du tome"></tome>
+            <edition>
+                <editeur></editeur>
+                <lieu_edition></lieu_edition>
+                <lieu_impression></lieu_impression>
+                <ISBN></ISBN>
+            </edition>
+        </livre>
+    </livres>
+    <articles>
+        <article id="numéro de l'article">
+            <titre soustitre="sous-titre de l'article"></titre>
+            <noms_auteurs></noms_auteurs>
+            <publication annee="inconnue">
+                <journal nom_journal="Feuille de Chou"></journal>
+                <numero_journal></numero_journal>
+                <numero_pages></numero_pages>
+                <avis></avis>
+            </publication>
+        </article>
+    </articles>
+</bibliographie>
+

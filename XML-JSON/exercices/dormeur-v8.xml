@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="dormeur-v8.xsl"?>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poésies</title>
+				<author>Arthur Rimbaud</author>
+			</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<group>
+			<text>
+				<front>
+					<head>Le Dormeur du Val</head>
+					<dateline>7 octobre 1870</dateline>
+				</front>
+				<body>
+					<lg>
+						<lg>
+							<l>C'est un trou de verdure où chante une rivière</l>
+							<l>Accrochant follement aux herbes des haillons</l>
+							<l>D'argent ; où le soleil, de la montagne fière,</l>
+							<l>Luit : c'est un petit val qui mousse de rayons.</l>
+						</lg>
+						<lg>
+							<l>Un soldat jeune, bouche ouverte, tête nue,</l>
+							<l>Et la nuque baignant dans le frais cresson bleu,</l>
+							<l>Dort ; il est étendu dans l'herbe, sous la nue,</l>
+							<l>Pâle dans son lit vert où la lumière pleut.</l>
+						</lg>
+						<lg>
+							<l>Les pieds dans les glaïeuls, il dort. Souriant comme</l>
+							<l>Sourirait un enfant malade, il fait un somme :</l>
+							<l>Nature, berce-le chaudement : il a froid.</l>
+						</lg>
+						<lg>
+							<l>Les parfums ne font pas frissonner sa narine ;</l>
+							<l>Il dort dans le soleil, la main sur sa poitrine</l>
+							<l>Tranquille. Il a deux trous rouges au côté droit.</l>
+						</lg>
+					</lg>
+				</body>
+			</text>
+		</group>
+	</text>
+</TEI>

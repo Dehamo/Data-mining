@@ -1,0 +1,7 @@
+<!ELEMENT phrases (pair)>
+<!ELEMENT pair (en | fr | annot1 | annot2)>
+<!ATTLIST pair nr CDATA #REQUIRED>
+<!ELEMENT en (#PCDATA)>
+<!ELEMENT fr (#PCDATA)>
+<!ELEMENT annot2 (#PCDATA)>
+<!ELEMENT annot1 (#PCDATA)>

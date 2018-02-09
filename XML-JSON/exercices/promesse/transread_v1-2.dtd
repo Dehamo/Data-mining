@@ -1,0 +1,66 @@
+<!--                                                                           -->
+<!--                                                                           -->
+<!--                       TRANSREAD annotation DTD                            -->
+<!--                                                                           -->
+<!--                             Version  1.2                                  -->
+<!--                                                                           -->
+
+<!ELEMENT trAnnot             (docList, linkType?, linkList+)                    >
+<!ATTLIST trAnnot                                    
+          xmlns               CDATA                                    #REQUIRED
+          xmlns:xsi           CDATA                                    #REQUIRED
+          xsi:schemaLocation  CDATA                                    #REQUIRED 
+          version             CDATA                                    #REQUIRED >
+
+<!ELEMENT docList             (docName+)                                         >
+
+<!ELEMENT docName             (#PCDATA)                                          >
+<!ATTLIST docName                 
+          id                  ID                                       #REQUIRED   
+          xml:lang            CDATA                                    #IMPLIED  >
+
+<!ELEMENT linkType            (typeName*)                                        >
+
+<!ELEMENT typeName            EMPTY                                              >
+<!ATTLIST typeName
+          id                  ID                                       #IMPLIED  >
+
+<!ELEMENT linkList            (linkGroup+)                                       >
+<!ATTLIST linkList           
+          level               (sentence | token | chunk | paraphrase)  #REQUIRED >
+
+<!ELEMENT linkGroup           (docPart+, (link* | annotation*))                  >
+<!ATTLIST linkGroup
+          type                (alignment | annotation)                 #REQUIRED >
+
+<!ELEMENT docPart             EMPTY                                              >
+<!ATTLIST docPart
+          doc                 IDREF                                    #REQUIRED   
+          beginPos            CDATA                                    #IMPLIED    
+          endPos              CDATA                                    #IMPLIED  >
+
+<!ELEMENT link                (docSpan+)                                         >
+<!ATTLIST link
+          certainty           CDATA                                    #IMPLIED
+          id                  ID                                       #REQUIRED >
+
+<!ELEMENT annotation          (docSpan, mark*)                                   >
+<!ATTLIST annotation
+          type                (gram | URI | QE)                        #REQUIRED   
+          id                  ID                                       #REQUIRED >
+
+<!ELEMENT docSpan             (#PCDATA)                                          >
+<!ATTLIST docSpan
+          beginPos            CDATA                                    #REQUIRED
+          endPos              CDATA                                    #REQUIRED
+          context             IDREFS                                   #IMPLIED  >
+
+<!ELEMENT mark                (#PCDATA)                                          >
+<!ATTLIST mark
+          cat                 (POS | lemma)                            #IMPLIED
+          resource            CDATA                                    #IMPLIED
+          xml:lang            CDATA                                    #IMPLIED
+          entry               CDATA                                    #IMPLIED
+          certainty           CDATA                                    #IMPLIED
+          qescore             CDATA                                    #IMPLIED
+          method              CDATA                                    #IMPLIED  >

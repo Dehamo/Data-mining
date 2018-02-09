@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar 
+    xmlns="http://relaxng.org/ns/structure/1.0"
+    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+    datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+    <start>
+        <ref name="articlesTAL" />
+    </start>
+    
+    <define name="articlesTAL">
+        <element name="articlesTAL">
+            <oneOrMore>
+                <ref name="article" />
+            </oneOrMore>
+        </element>
+    </define>
+    
+    <define name="article">
+        <element name="article">
+            <ref name="attributs_article" />
+            <ref name="auteurs" />
+            <ref name="titre_de_la_source" />
+            <ref name="date_de_publication" />
+            <ref name="numero" />
+            <ref name="pagination" />
+            <ref name="lien" />
+            <ref name="issn" />
+            <ref name="informations_complementaires" />
+            <ref name="resume" />
+            <ref name="thematiques" />
+        </element>
+    </define>
+    
+    <define name="attributs_article">
+        <attribute name="id" >
+            <text />
+        </attribute>
+        <attribute name="titre">
+            <text />
+        </attribute>
+        <optional>
+            <attribute name="sous_titre">
+                <text />
+            </attribute>
+        </optional>
+    </define>
+    <define name="auteurs">
+        <element name="auteurs">
+            <text />
+        </element>
+    </define>
+    <define name="titre_de_la_source">
+        <element name="titre_de_la_source">
+            <text />
+        </element>
+    </define>
+    <define name="date_de_publication">
+        <element name="date_de_publication">
+            <text />
+        </element>
+    </define>
+    <define name="numero">
+        <element name="numero">
+            <text />
+        </element>
+    </define>
+    <define name="pagination">
+        <element name="pagination">
+            <text />
+        </element>
+    </define>
+    <define name="lien">
+        <element name="lien">
+            <text />
+        </element>
+    </define>
+    <define name="issn">
+        <element name="issn">
+            <text />
+        </element>
+    </define>
+    <define name="informations_complementaires">
+        <element name="informations_complementaires">
+            <ref name="type_de_publication"/>
+            <ref name="type_de_la_source"/>
+            <ref name="numero_national_de_structure_de_recherche"/>
+            <ref name="doi"/>
+            <ref name="reference_hal"/>
+            <ref name="references_archives_oai"/>
+        </element>
+    </define>
+    <define name="type_de_publication">
+        <element name="type_de_publication">
+            <text />
+        </element>
+    </define>
+    <define name="type_de_la_source">
+        <element name="type_de_la_source">
+            <text />
+        </element>
+    </define>
+    <define name="numero_national_de_structure_de_recherche">
+        <element name="numero_national_de_structure_de_recherche">
+            <text />
+        </element>
+    </define>
+    <define name="doi">
+        <element name="doi">
+            <text />
+        </element>
+    </define>
+    <define name="reference_hal">
+        <element name="reference_hal">
+            <text />
+        </element>
+    </define>
+    <define name="references_archives_oai">
+        <element name="references_archives_oai">
+            <text />
+        </element>
+    </define>
+    <define name="resume">
+        <element name="resume">
+            <text />
+        </element>
+    </define>
+    <define name="thematiques">
+        <element name="thematiques">
+            <text />
+        </element>
+    </define>
+</grammar>

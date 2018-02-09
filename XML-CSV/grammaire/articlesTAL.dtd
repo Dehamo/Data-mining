@@ -1,0 +1,20 @@
+<!ELEMENT articlesTAL (article+)>
+<!ELEMENT article (auteurs, titre_de_la_source, date_de_publication, numero, pagination, lien, issn, informations_complementaires, resume, thematiques)>
+<!ATTLIST article
+          id ID #REQUIRED titre CDATA #REQUIRED sous_titre CDATA #IMPLIED>
+<!ELEMENT auteurs (#PCDATA)>
+<!ELEMENT titre_de_la_source (#PCDATA)>
+<!ELEMENT date_de_publication (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT pagination (#PCDATA)>
+<!ELEMENT lien (#PCDATA)>
+<!ELEMENT issn (#PCDATA)>
+<!ELEMENT informations_complementaires (type_de_publication, type_de_la_source, numero_national_de_structure_de_recherche, doi, reference_hal, references_archives_oai)>
+<!ELEMENT type_de_publication (#PCDATA)>
+<!ELEMENT type_de_la_source (#PCDATA)>
+<!ELEMENT numero_national_de_structure_de_recherche (#PCDATA)>
+<!ELEMENT doi (#PCDATA)>
+<!ELEMENT reference_hal (#PCDATA)>
+<!ELEMENT references_archives_oai (#PCDATA)>
+<!ELEMENT resume (#PCDATA)>
+<!ELEMENT thematiques (#PCDATA)>

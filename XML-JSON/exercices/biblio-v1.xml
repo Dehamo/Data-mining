@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE bibliographie SYSTEM "biblio-v1.dtd">
+
+<bibliographie>
+    <livres>
+        <livre id="numero du livre"> 
+            <titre></titre>
+            <noms_auteurs></noms_auteurs>
+            <tome id="numéro du tome" name="nom du tome">
+                <nombre_pages></nombre_pages>
+            </tome>
+            <edition>
+                <editeur></editeur>
+                <lieu_edition></lieu_edition>
+                    <lieu_impression></lieu_impression>
+                    <ISBN></ISBN>
+            </edition>
+        </livre>
+    </livres>
+    <articles>
+        <article id="numéro de l'article">
+            <titre></titre>
+            <noms_auteurs></noms_auteurs>
+            <publication>
+                <journal></journal>
+                <numero_journal></numero_journal>
+                <annee></annee>
+                <numero_pages></numero_pages>
+                <avis></avis>
+            </publication>
+        </article>
+    </articles>
+</bibliographie>

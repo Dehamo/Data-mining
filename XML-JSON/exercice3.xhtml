@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//FR" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+
+    <head>
+        <!-- Title -->
+        <title>Documents structurés</title>
+        <!-- Meta -->
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="description" content="Documents structurés" />
+        <meta name="author" content="Dehareng Morgane" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+        <!-- Favicon -->
+        <link href="assets/img/favicon.ico" rel="shortcut icon" />
+        <!-- Bootstrap Core CSS -->
+        <link rel="stylesheet" href="assets/css/bootstrap.css" />
+        <!-- Template CSS -->
+        <link rel="stylesheet" href="assets/css/animate.css" />
+        <link rel="stylesheet" href="assets/css/font-awesome.css" />
+        <link rel="stylesheet" href="assets/css/nexus.css" />
+        <link rel="stylesheet" href="assets/css/responsive.css" />
+        <link rel="stylesheet" href="assets/css/custom.css" />
+        <!-- Google Fonts-->
+        <link href="http://fonts.googleapis.com/css?family=Raleway:100,300,400" type="text/css" rel="stylesheet" />
+        <link href="http://fonts.googleapis.com/css?family=Roboto:400,300" type="text/css" rel="stylesheet" />
+    </head>
+    <body>
+                
+       
+        <!-- Header -->
+        <div id="header" style="background-position: 50% 0%; height:50% 0%;" data-stellar-background-ratio="0.5">
+            <div class="container">
+                <div class="row">
+                    <!-- Logo -->
+                    <div class="logo">
+                        <a href="index.html" title="">
+                            <img src="assets/img/logo.png" alt="Logo" />
+                        </a>
+                    </div>
+                    <!-- End Logo -->
+                </div>
+                <!-- Top Menu -->
+                <div id="hornav" class="row text-light">
+                    <div class="col-md-12">
+                        <div class="text-center visible-lg">
+                            <ul id="hornavmenu" class="nav navbar-nav">
+                                <li>
+                                    <a href="index.xhtml" class="fa-home ">Accueil</a>
+                                </li>
+                                <li>
+                                    <a href="https://xmlprojet.wordpress.com/" class="fa-font" target="_blank">Blog</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+               <!-- End Top Menu -->
+            </div>
+        </div>
+        <!-- End Header -->
+
+         <!-- === BEGIN CONTENT === -->
+        <div id="welcome" class="background-white">
+            <div class="container">
+                <div class="row margin-vert-40">
+                    <!-- Main Text -->
+                    <div class="col-md-12">
+                        <h2 class="text-center article-title">La bibliographie</h2>
+                        <p class="text-justify"><b>Phase 1</b></p>
+                        <p class="text-justify">Rédiger une DTD pour une bibliographie. Cette bibliographie :
+                        <ul class="disc">
+						        <li>contient des livres et des articles</li>
+					       </ul>
+                        </p>  
+                       <p class="text-justify">Les informations nécessaires pour un livre sont :
+                           <ul class="disc">
+						        <li>son titre général</li>
+                                <li>les noms des auteurs</li>
+                                <li>ses tomes et pour chaque tome, leur nombre de pages</li>
+                                <li>des informations générales sur son édition comme par exemple le nom de l'éditeur, le lieu d'édition, le lieu d'impression, son numéro ISBN</li>
+					       </ul>
+                       </p>
+                       <p class="text-justify">Les informations nécessaires pour un article sont :
+                           <ul class="disc">
+						        <li>son titre général</li>
+                                <li>les noms des auteurs</li>
+                                <li>ses références de publication : nom du journal, numéro des pages, année de publication et numéro du journal</li>
+                                <li>on réservera aussi un champ optionnel pour un avis personnel</li>
+					       </ul>
+                       </p>
+                       <p class="text-justify">Tester cette DTD avec un fichier XML que l'on écrira <i>ex-nihilo</i> et validera.</p>
+                        <p><a href="exercices/biblio-v1.xml" target="_blank"><img src="assets/img/typo/note.png" />Voir le document XML</a></p>
+                        <p><a href="exercices/biblio-v1.dtd" target="_blank"><img src="assets/img/typo/note.png" />Voir la DTD</a></p>
+                        <br />
+                        <p class="text-justify"><b>Phase 2</b></p>
+                        <p class="text-justify">Modifier la DTD précédente...
+                          <ul class="disc">
+						        <li>en ajoutant un attribut optionnel soustitre à l'élément titre</li>
+                                <li>en faisant de l'élément tome un élément vide et en lui ajoutant un attribut requis nb_pages et un attribut optionnel soustitre</li>
+                                <li>en faisant de l'élément nom_journal un attribut de l'élément journal et en lui donnant comme valeur par défaut Feuille de chou</li>
+                                <li>en faisant de l'élément annee un atttribut de type énuméré, prenant comme valeurs possibles 2000, 2001, 2002, "avant_2000" et "inconnue" et proposant comme valeur par défaut inconnue</li>
+                            </ul> 
+                       </p>
+                       <p class="text-justify">Utiliser cette DTD pour créer un fichier XML valide.</p>
+                       <p><a href="exercices/biblio-v2.xml" target="_blank"><img src="assets/img/typo/note.png" />Voir le document XML</a></p>
+                       <p><a href="exercices/biblio-v2.dtd" target="_blank"><img src="assets/img/typo/note.png" />Voir la DTD</a></p>
+                    </div>
+                    <!-- End Main Text -->
+                </div>
+            </div>
+        </div>
+
+    
+        <!-- Footer -->
+        <div id="footer" >
+            <div class="container no-padding">
+                <div class="row">
+                    <!-- Copyright -->
+                    <div id="copyright">
+                        <p>&#169; 2017 Dehareng Morgane - Master Tal</p>
+                    </div>
+                    <!-- End Copyright -->
+                </div>
+            </div>
+        </div>
+            <!-- End Footer -->
+            <!-- JS -->
+            <script type="text/javascript" src="assets/js/jquery.min.js"></script>
+            <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+            <script type="text/javascript" src="assets/js/scripts.js"></script>
+            <!-- Isotope - Portfolio Sorting -->
+            <script type="text/javascript" src="assets/js/jquery.isotope.js"></script>
+            <!-- Mobile Menu - Slicknav -->
+            <script type="text/javascript" src="assets/js/jquery.slicknav.js"></script>
+            <!-- Animate on Scroll-->
+            <script type="text/javascript" src="assets/js/jquery.visible.js" charset="utf-8"></script>
+            <!-- Stellar Parallax -->
+            <script type="text/javascript" src="assets/js/jquery.stellar.js" charset="utf-8"></script>
+            <!-- Sticky Div -->
+            <script type="text/javascript" src="assets/js/jquery.sticky.js" charset="utf-8"></script>
+            <!-- Slimbox2-->
+            <script type="text/javascript" src="assets/js/slimbox2.js" charset="utf-8"></script>
+            <!-- Modernizr -->
+            <script src="assets/js/modernizr.custom.js" type="text/javascript"></script>
+            <!-- End JS -->
+    </body>
+</html>
+<!-- === END FOOTER === -->

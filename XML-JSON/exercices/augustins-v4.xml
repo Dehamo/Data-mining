@@ -1,0 +1,3147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<oeuvre id="inv-augustins-RA_1047_T">
+		<mesure_1>Hauteur : 20</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 18</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1921-01-01</date_acqui>
+		<numero_acquisition>1921.3</numero_acquisition>
+		<auteur_1>MARQUESTE, Laurent-Honoré</auteur_1>
+		<designation_2>figurine</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 11</mesure_2>
+		<datation_1>1851-1900</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1901-1925</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1047_X">
+		<mesure_1>Hauteur : 31</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 24</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1921-01-01</date_acqui>
+		<numero_acquisition>1921.3</numero_acquisition>
+		<auteur_1>MARQUESTE, Laurent-Honoré</auteur_1>
+		<designation_2>statuette</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 13.5</mesure_2>
+		<inscription_type_1>Insc. conc. la technique</inscription_type_1>
+		<datation_1>1851-1900</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1901-1925</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1050">
+		<mesure_1>Hauteur : 36</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 24.5</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1924-01-01</date_acqui>
+		<numero_acquisition>1924.3</numero_acquisition>
+		<auteur_1>Anonyme</auteur_1>
+		<designation_2>fragment</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<date_de_collecte>1924</date_de_collecte>
+		<site_de_collecte>/ Banque de France : Toulouse</site_de_collecte>
+		<datation_1>1326-1350</datation_1>
+		<mesure_2>Largeur : 35.5</mesure_2>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<prov_geo>Couvent des Cordeliers</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1052">
+		<mesure_1>Hauteur : 65</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 9</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1924-01-01</date_acqui>
+		<numero_acquisition>1924.3</numero_acquisition>
+		<auteur_1>Anonyme français</auteur_1>
+		<designation_2>inscription</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<date_de_collecte>1924</date_de_collecte>
+		<site_de_collecte>/ Banque de France : Toulouse</site_de_collecte>
+		<datation_1>1701-1800</datation_1>
+		<mesure_2>Largeur : 50</mesure_2>
+		<prov_geo>Couvent des Cordeliers</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1055">
+		<technique>haut-relief</technique>
+		<inscription_type_2>Epitaphe</inscription_type_2>
+		<mesure_1>Hauteur : 52</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 61</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1926-01-01</date_acqui>
+		<numero_acquisition>1926.2</numero_acquisition>
+		<auteur_1>LAURENS, Jean-Paul</auteur_1>
+		<designation_2>gisant</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 182</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1914</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1057">
+		<donateur_vendeur>Archiprêtre de la cathédrale</donateur_vendeur>
+		<domaine>Sculpture</domaine>
+		<mesure_1>Hauteur : 320</mesure_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1929-04-01</date_acqui>
+		<numero_acquisition>1929.4</numero_acquisition>
+		<auteur_1>Anonyme français</auteur_1>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_3>Hauteur : 225</mesure_3>
+		<datation_1>1601-1700</datation_1>
+		<mesure_2>Largeur : 38</mesure_2>
+		<prov_geo>Cathédrale Saint-Etienne</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1058_A">
+		<mesure_1>Profondeur : 30</mesure_1>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Armoiries</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<auteur_1>Anonyme</auteur_1>
+		<date_acqui>1932-01-01</date_acqui>
+		<numero_acquisition>1932.9</numero_acquisition>
+		<designation_3>relief</designation_3>
+		<designation_2>partie d'un ensemble de sculptures</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<date_de_collecte>1932</date_de_collecte>
+		<site_de_collecte>/ ancienne faculté des Lettres : rue de Rémusat : Toulouse</site_de_collecte>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<prov_geo>Hôtel du Sénéchal</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1061">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1933-01-01</date_acqui>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<designation>Clef de vo\u00fbte aux armoiries de Bernard de</designation>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Armoiries</inscription_type_1>
+		<mode_acquisition>Don</mode_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1066">
+		<mesure_1>Hauteur : 69</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 72</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1934-01-01</date_acqui>
+		<numero_acquisition>1934.10</numero_acquisition>
+		<designation_3>partie d'un ensemble de sculptures</designation_3>
+		<designation_2>relief</designation_2>
+		<mesure_2>Largeur : 92</mesure_2>
+		<site_de_collecte>/ Saint-Etienne : chapelle Notre-Dame des Brassiers : Toulouse</site_de_collecte>
+		<datation_1>1451-1475</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<prov_geo>Chapelle Notre-Dame-des-Brassiers</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1068">
+		<auteur_1>Anonyme français</auteur_1>
+		<domaine>Sculpture</domaine>
+		<site_de_collecte>/ Cathédrale Saint-Etienne : Toulouse</site_de_collecte>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1933-01-01</date_acqui>
+		<numero_acquisition>1933.7</numero_acquisition>
+		<designation_3>colonne</designation_3>
+		<designation_2>élément d'architecture</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<datation_1>1201-1250</datation_1>
+		<prov_geo>Cathédrale Saint-Etienne</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1070">
+		<mesure_1>Hauteur : 36</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 23</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1936-01-01</date_acqui>
+		<numero_acquisition>1936.6</numero_acquisition>
+		<auteur_1>PUGET, Pierre</auteur_1>
+		<precision_auteur_1>D'après</precision_auteur_1>
+		<mode_acquisition>Don</mode_acquisition>
+		<datation_1>1651-1700</datation_1>
+		<designation_2>tête</designation_2>
+		<mesure_2>Largeur : 26</mesure_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1074">
+		<date_affec>1940-05-24</date_affec>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1940-01-01</date_acqui>
+		<designation>Fragment de dalle tombale</designation>
+		<domaine>Sculpture</domaine>
+		<mode_acquisition>Don</mode_acquisition>
+		<date_de_collecte>1940</date_de_collecte>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<designation>Bas-relief dit de Tetricus</designation>
+		<matiere>plâtre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>685a8859e84ee758f884d49496739850</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1081">
+		<mesure_1>Hauteur : 47</mesure_1>
+		<numero_acquisition>1944.7</numero_acquisition>
+		<mesure_3>Profondeur : 19</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1944-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<designation_2>statuette</designation_2>
+		<mode_acquisition>Achat au salon des Artistes Méridionaux</mode_acquisition>
+		<mesure_2>Largeur : 52</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1943</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_emplace>S.D. sur le socle</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1088">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1927-01-01</date_acqui>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<designation>Homme barbu non vêtu</designation>
+		<domaine>Sculpture</domaine>
+		<date_de_collecte>1926</date_de_collecte>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1100">
+		<mesure_1>Hauteur : 45</mesure_1>
+		<mesure_2>Largeur : 39</mesure_2>
+		<mesure_3>Profondeur : 10,5</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1927-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<designation_2>inscription</designation_2>
+		<date_de_collecte>1926</date_de_collecte>
+		<site_de_collecte>/ Eglise Notre-Dame de la Dalbade : clocher : Toulouse</site_de_collecte>
+		<datation_1>1660</datation_1>
+		<numero_acquisition>1927.3</numero_acquisition>
+		<prov_geo>Eglise Notre-Dame de la Dalbade</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1102">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1927-01-01</date_acqui>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<designation>Vieillard barbu</designation>
+		<domaine>Sculpture</domaine>
+		<date_de_collecte>1926</date_de_collecte>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1108">
+		<mesure_1>Hauteur : 38</mesure_1>
+		<mesure_2>Largeur : 48</mesure_2>
+		<mesure_3>Profondeur : 36</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<numero_acquisition>1927.3</numero_acquisition>
+		<date_acqui>1927-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<designation_3>relief</designation_3>
+		<precision_auteur_1>Ecole</precision_auteur_1>
+		<date_de_collecte>1926</date_de_collecte>
+		<site_de_collecte>/ Eglise Notre-Dame de la Dalbade : clocher : Toulouse</site_de_collecte>
+		<datation_1>1545 vers</datation_1>
+		<designation_2>partie d'un ensemble de sculptures</designation_2>
+		<datation_2>1526-1550</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1111">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1927-01-01</date_acqui>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<designation>Homme barbu</designation>
+		<domaine>Sculpture</domaine>
+		<date_de_collecte>1926</date_de_collecte>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1472">
+		<mesure_1>Hauteur : 55</mesure_1>
+		<numero_acquisition>1962.12</numero_acquisition>
+		<auteur_1>ALEJOS</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1962-08-12</date_acqui>
+		<domaine>Mosa\u00efque</domaine>
+		<designation_2>mosa\u00efque</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 90</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<prix_achat>300,00 FRF</prix_achat>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>LAFAURIE, Marceau</auteur_1>
+		<notes_aquisition>Probabalement acheté suite au Salon des Artistes Méridionaux de 1920.</notes_aquisition>
+		<designation>Portrait</designation>
+		<matiere>bois</matiere>
+		<inscription_type_2>Date</inscription_type_2>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>68a3239dce120322b8794ac1cd6d867f</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2011">
+		<mesure_1>Hauteur : 39</mesure_1>
+		<mesure_2>Largeur : 78</mesure_2>
+		<mesure_3>Profondeur : 29</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<domaine>Sculpture</domaine>
+		<designation_2>ronde-bosse</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<datation_1>1901-2000</datation_1>
+		<numero_acquisition>8</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2012">
+		<mesure_1>Hauteur : 25.5</mesure_1>
+		<numero_acquisition>1960.14</numero_acquisition>
+		<mesure_3>Profondeur : 23.5</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1960-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<designation_2>tête</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 18</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1927</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_emplace>S.D. derrière le cou</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2013">
+		<mesure_1>Hauteur : 41</mesure_1>
+		<numero_acquisition>1960.14</numero_acquisition>
+		<mesure_3>Profondeur : 15.5</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1960-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<designation_2>tête</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 35</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1901-2000</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_emplace>S. à la base du cou</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2020">
+		<localisation>musée des Augustins</localisation>
+		<prix_achat>500,00 FRF</prix_achat>
+		<fonction_usage>deuxième second grand prix de Rome</fonction_usage>
+		<notes_aquisition>Dépôt par décision du 10/12/1925. Date de l'envoi à Toulouse inconnue</notes_aquisition>
+		<designation>Les Fiancailles</designation>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Numéro</inscription_type_1>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2028">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1980-01-01</date_acqui>
+		<designation>Le Sommeil</designation>
+		<notes_aquisition_2>Les oeuvres sont arrivées au musée en 1981. Avis de la Commission Technique des Beaux-Arts le 04/05/1982. Délibération municipale du 28/06/1989</notes_aquisition_2>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<mode_acquisition>Don</mode_acquisition>
+		<numero_acquisition>1980.6</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2029">
+		<mesure_1>Hauteur : 28</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 17</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1980-01-01</date_acqui>
+		<numero_acquisition>1980.6</numero_acquisition>
+		<auteur_1>PRIVAT, Gilbert</auteur_1>
+		<designation_2>Tête de femme</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 9.4</mesure_2>
+		<datation_1>1901-1950</datation_1>
+		<credit_photo>&#169; STC - Mairie de Toulouse</credit_photo>
+		<datation_2>1951-1975</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2035">
+		<mesure_1>Hauteur : 13.3</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 7.6</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1980-01-01</date_acqui>
+		<numero_acquisition>1980.6</numero_acquisition>
+		<auteur_1>PRIVAT, Gilbert</auteur_1>
+		<designation_2>figurine</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 10.6</mesure_2>
+		<datation_1>1901-1950</datation_1>
+		<credit_photo>&#169; STC - Mairie de Toulouse</credit_photo>
+		<datation_2>1951-1975</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2043">
+		<mesure_1>Diamètre : 15,7</mesure_1>
+		<numero_acquisition>1985.1</numero_acquisition>
+		<auteur_1>DAVID D'ANGERS (dit)</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1985-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<designation_3>relief</designation_3>
+		<designation_2>médaillon</designation_2>
+		<mode_acquisition>Legs</mode_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1830</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_emplace>sous la tranche du cou</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<designation>cul de lampe</designation>
+		<matiere>pierre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>4457d9bd4b0ddd7d3b84799d56dd3f0b</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2051">
+		<mesure_1>Hauteur : 120</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 27</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<numero_acquisition>8</numero_acquisition>
+		<designation_3>retable</designation_3>
+		<designation_2>partie d'un ensemble de sculptures</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 41</mesure_2>
+		<fonction_usage>décor de meuble</fonction_usage>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<prov_geo>France</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2053">
+		<mesure_1>Hauteur : 85</mesure_1>
+		<mesure_2>Largeur : 34</mesure_2>
+		<mesure_3>Profondeur : 29</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<domaine>Sculpture</domaine>
+		<designation_2>statue</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<datation_1>1626-1650</datation_1>
+		<numero_acquisition>8</numero_acquisition>
+		<datation_2>1651-1675</datation_2>
+	</oeuvre>
+
+	<oeuvre>
+		<inscription_transcr>FONQUERNIE 1923</inscription_transcr>
+		<auteur_1>FONQUERNIE, Jean-Paul</auteur_1>
+		<designation>Colporteur de choux-fleur</designation>
+		<matiere>plâtre</matiere>
+		<inscription_type_2>Date</inscription_type_2>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>190589267d4e452a30f861d779f4fa18</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2057_B">
+		<mesure_1>Hauteur : 66</mesure_1>
+		<numero_acquisition>1896.6</numero_acquisition>
+		<mesure_3>Profondeur : 6</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1896-04-23</date_acqui>
+		<domaine>Sculpture</domaine>
+		<auteur_1>DAVID D'ANGERS (dit)</auteur_1>
+		<designation_2>Scènes de batailles napoléoniennes à la gloire du</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 94</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1849</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_emplace>S. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2058">
+		<domaine>Sculpture</domaine>
+		<site_de_collecte>/ Musée des Augustins : Petit clo\u00eetre : Toulouse</site_de_collecte>
+		<localisation>musée des Augustins</localisation>
+		<numero_acquisition>8</numero_acquisition>
+		<precision_auteur_1>Fabrique</precision_auteur_1>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<date_de_collecte>1950  date de dépose</date_de_collecte>
+		<datation_1>1835 vers</datation_1>
+		<prov_geo>Petit clo\u00eetre</prov_geo>
+	</oeuvre>
+
+	<oeuvre>
+		<inscription_transcr>T. BALDOCCHI 1912</inscription_transcr>
+		<auteur_1>BALDOCCHI, Théodore</auteur_1>
+		<designation>Justin Boyer</designation>
+		<matiere>plâtre</matiere>
+		<inscription_type_2>Date</inscription_type_2>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>b2ae7d0915151b9b528d399cf7d03a20</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2064">
+		<mesure_1>Hauteur : 65</mesure_1>
+		<mesure_2>Largeur : 60</mesure_2>
+		<mesure_3>Profondeur : 27</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<numero_acquisition>1835.6</numero_acquisition>
+		<date_acqui>1835-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<precision_auteur_1>?</precision_auteur_1>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<inscription_type_1>Insc. donnant l'id. du modèle</inscription_type_1>
+		<datation_1>1801-1850</datation_1>
+		<designation_2>buste à mi-corps</designation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2069">
+		<mesure_1>Hauteur : 79</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 47</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1983-01-01</date_acqui>
+		<numero_acquisition>1983.8</numero_acquisition>
+		<precision_auteur_1>Attribué à</precision_auteur_1>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 77</mesure_2>
+		<datation_1>1801-1850</datation_1>
+		<designation_2>buste à la française</designation_2>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2074">
+		<mesure_1>Hauteur : 32</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 20</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<numero_acquisition>1984.2</numero_acquisition>
+		<designation_2>tête</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 16</mesure_2>
+		<datation_1>1901-2000</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2075">
+		<mesure_1>Hauteur : 68</mesure_1>
+		<mesure_2>Largeur : 69</mesure_2>
+		<mesure_3>Profondeur : 37</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1844-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<designation_2>buste</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<inscription_type_1>Insc. donnant l'id. du modèle</inscription_type_1>
+		<datation_1>1801-1850</datation_1>
+		<numero_acquisition>1844.3</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2077">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1865-01-01</date_acqui>
+		<fonction_usage>commande</fonction_usage>
+		<commanditaire>DU MEGE, Alexandre</commanditaire>
+		<designation>La Hire de Vignolles</designation>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<mode_acquisition>Achat après commande</mode_acquisition>
+		<numero_acquisition>1865.5</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2079">
+		<mesure_1>Hauteur : 34</mesure_1>
+		<numero_acquisition>1984.2</numero_acquisition>
+		<mesure_3>Profondeur : 20</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<domaine>Sculpture</domaine>
+		<designation_2>tête</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 21.5</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1901-2000</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_emplace>S. à gauche sur le socle</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2086">
+		<domaine>Sculpture</domaine>
+		<localisation>musée des Augustins</localisation>
+		<numero_acquisition>1984.2</numero_acquisition>
+		<designation_3>ronde-bosse</designation_3>
+		<designation_2>fragment</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<datation_1>1601-1700</datation_1>
+		<datation_2>1701-1800</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2091">
+		<mesure_1>Hauteur : 55</mesure_1>
+		<mesure_2>Largeur : 47</mesure_2>
+		<mesure_3>Profondeur : 26</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<domaine>Sculpture</domaine>
+		<designation_2>buste à l'antique</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<datation_1>1801-1900 ?</datation_1>
+		<numero_acquisition>1984.2</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre>
+		<inscription_transcr>HRY MAURETTE 1887 FAIT D'AP</inscription_transcr>
+		<auteur_1>MAURETTE, Henry-Marie</auteur_1>
+		<designation>Urbain Vitry</designation>
+		<matiere>plâtre</matiere>
+		<inscription_type_2>Date</inscription_type_2>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>ed6fa492c53737d64cdbd54236d08cc3</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RI_1143">
+		<mesure_1>Hauteur : 226</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 77</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1950-01-01</date_acqui>
+		<numero_acquisition>1950.6</numero_acquisition>
+		<designation_2>statue</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 79</mesure_2>
+		<fonction_usage>second grand prix de Rome</fonction_usage>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<prov_geo>Paris</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RI_1159">
+		<mesure_1>Hauteur : 51</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 26</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1942-01-01</date_acqui>
+		<inscription_transcr>DUCUING 88</inscription_transcr>
+		<designation_2>buste</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1888</datation_1>
+		<numero_acquisition>1942.2</numero_acquisition>
+		<mesure_2>Largeur : 25</mesure_2>
+		<inscription_emplace>S.D. à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RI_1160">
+		<mesure_1>Hauteur : 49</mesure_1>
+		<numero_acquisition>1939.7</numero_acquisition>
+		<mesure_3>Profondeur : 35</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_affec>1913-11-01</date_affec>
+		<date_acqui>1939-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<designation_2>buste</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1913</datation_1>
+		<mesure_2>Largeur : 30</mesure_2>
+		<inscription_emplace>S.D. à gauche sur le socle</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RI_1171">
+		<mesure_1>Hauteur : 50</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 31</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1951-01-01</date_acqui>
+		<numero_acquisition>1951.17</numero_acquisition>
+		<auteur_1>ROUSAUD, Aristide</auteur_1>
+		<designation_2>buste à l'italienne</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<datation_1>1876-1900</datation_1>
+		<mesure_2>Largeur : 49</mesure_2>
+		<datation_2>1901-1950</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RI_1180">
+		<mesure_1>Hauteur : 200</mesure_1>
+		<mesure_2>Largeur : 88</mesure_2>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1951-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<designation_3>réplique</designation_3>
+		<designation_2>statue</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<datation_1>1901-2000</datation_1>
+		<numero_acquisition>1951.10</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RI_1318">
+		<date_affec>1957-12-31</date_affec>
+		<domaine>Sculpture</domaine>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1957-01-01</date_acqui>
+		<prix_achat>20 000,00 FRF</prix_achat>
+		<designation_2>sculpture</designation_2>
+		<mode_acquisition>Achat au salon</mode_acquisition>
+		<datation_1>1957 avant</datation_1>
+		<numero_acquisition>1957.7</numero_acquisition>
+		<datation_2>1926-1950</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RI_1698">
+		<mesure_1>Hauteur : 48.5</mesure_1>
+		<numero_acquisition>1983.11</numero_acquisition>
+		<mesure_3>Profondeur : 19.5</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1983-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<auteur_1>MONCASSIN, Henri-Rapha\u00ebl</auteur_1>
+		<designation_2>buste</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 22</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1921</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_emplace>S.D. à gauche sur le socle</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>MOULINS, J.</auteur_1>
+		<matiere>plâtre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>0b6ecccf7f4d998429820012b418b1a0</id>
+	</oeuvre>
+
+	<oeuvre>
+		<donateur_vendeur>FACHARD, Robert  artiste</donateur_vendeur>
+		<designation>Dynamique de deux formes</designation>
+		<matiere>laiton</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>7937c5fd72e002414caa30dff938728d</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_30">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1830-01-01</date_acqui>
+		<fonction_usage>commande</fonction_usage>
+		<commanditaire>Capitouls</commanditaire>
+		<notes_aquisition>Alexandre Du Mège fit transporter la toile qui était dans le consistoire des Conseils du Capitole.</notes_aquisition>
+		<designation>La Prévoyance, la Vigilance et l'Honneur</designation>
+		<inscription_type_2>Date</inscription_type_2>
+		<domaine>Peinture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<mode_acquisition>Transfert</mode_acquisition>
+		<numero_acquisition>1830.1</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_36">
+		<mesure_1>Hauteur : 31</mesure_1>
+		<numero_acquisition>1896.1</numero_acquisition>
+		<mesure_3>Hauteur avec cadre en cm : 55,5</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1896-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<auteur_1>BRISSOT DE WARVILLE, Félix Saturnin</auteur_1>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Legs</mode_acquisition>
+		<mesure_2>Largeur : 40</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1851-1900</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<inscription_emplace>S. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_49">
+		<mesure_1>Hauteur : 81</mesure_1>
+		<numero_acquisition>1889.1</numero_acquisition>
+		<auteur_1>CHARPENTIER, Léon Jean François</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1889-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 65</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1885</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<inscription_emplace>S.D. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_75">
+		<mesure_1>Hauteur : 23</mesure_1>
+		<numero_acquisition>1858.2</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1858-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<auteur_1>DIAZ DE LA PENA, Narcisse</auteur_1>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat au salon</mode_acquisition>
+		<mesure_2>Largeur : 34</mesure_2>
+		<datation_2>1851-1875</datation_2>
+		<datation_1>1858 : date de l'exposition au salon</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_emplace>S. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_79">
+		<mesure_1>Hauteur : 98</mesure_1>
+		<numero_acquisition>1862.1</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1862-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat au salon</mode_acquisition>
+		<mesure_2>Largeur : 137</mesure_2>
+		<datation_2>1851-1875</datation_2>
+		<datation_1>1862 vers</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_emplace>S. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_98">
+		<mesure_1>Hauteur : 30</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>GAZARD, François-Valentin</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1886-01-01</date_acqui>
+		<numero_acquisition>1886.2</numero_acquisition>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 40</mesure_2>
+		<datation_1>1776 vers</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+	</oeuvre>
+
+	<oeuvre>
+		<donateur_vendeur>OZENNE, Théodore  particulier</donateur_vendeur>
+		<designation>Café arabe</designation>
+		<matiere>bois</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>c49e5b53a5daa2c7d1e4cea91d99d772</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-Ro_132">
+		<mesure_1>Hauteur : 150</mesure_1>
+		<numero_acquisition>1894.1</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1894-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat avec participation</mode_acquisition>
+		<mesure_2>Largeur : 100</mesure_2>
+		<datation_1>1861</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<inscription_emplace>S.D. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_145">
+		<mesure_1>Hauteur : 260</mesure_1>
+		<numero_acquisition>1860.1</numero_acquisition>
+		<auteur_1>LATIL, François-Vincent-Mathieu</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1860-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 207</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1841</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<inscription_emplace>S.D. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_162">
+		<mesure_1>Hauteur : 180</mesure_1>
+		<numero_acquisition>1900.1</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1900-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 141</mesure_2>
+		<datation_1>1896</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<inscription_emplace>S.D. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_181">
+		<date_affec>1834-02-06</date_affec>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1834-02-06</date_acqui>
+		<notes_aquisition>AMT 2R26 Lettre du Ministre de l'Intérieur, Bureau des Beaux-Arts à Mr de Rémuzat député de la Haute-Garonne : \</notes_aquisition>
+		<designation></designation>
+		<domaine>Peinture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<mode_acquisition>Don</mode_acquisition>
+		<numero_acquisition>1834.4</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_191">
+		<mesure_1>Hauteur : 146</mesure_1>
+		<numero_acquisition>1858.5</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1858-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat au salon</mode_acquisition>
+		<mesure_2>Largeur : 111</mesure_2>
+		<datation_2>1851-1875</datation_2>
+		<datation_1>1858 vers</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<inscription_emplace>S. en bas à droite</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_196">
+		<mesure_1>Hauteur : 146</mesure_1>
+		<numero_acquisition>1895.1</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1895-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<auteur_1>PIBRAC, Raoul Guy Marie, comte de</auteur_1>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 114</mesure_2>
+		<datation_2>1876-1900</datation_2>
+		<datation_1>1895 avant</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<inscription_emplace>S. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_213">
+		<mesure_1>Hauteur : 31.5</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>RESTOUT, Jean Bernard</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1797-01-01</date_acqui>
+		<numero_acquisition>1797.1</numero_acquisition>
+		<designation_3>esquisse</designation_3>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 41.8</mesure_2>
+		<datation_1>1769 vers</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_214">
+		<mesure_1>Hauteur : 55.5</mesure_1>
+		<numero_acquisition>1865.3</numero_acquisition>
+		<inscription_type_1>Monogramme</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1865-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat au salon</mode_acquisition>
+		<mesure_2>Largeur : 45.5</mesure_2>
+		<datation_2>1851-1875</datation_2>
+		<datation_1>1865 avant</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<inscription_emplace>S. en bas à droite</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_216">
+		<mesure_1>Hauteur : 147</mesure_1>
+		<numero_acquisition>1835.7</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1835-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_3>tableau</designation_3>
+		<designation_2>Intérieur de forêt</designation_2>
+		<mode_acquisition>Achat au salon</mode_acquisition>
+		<mesure_2>Largeur : 192</mesure_2>
+		<datation_1>1832</datation_1>
+		<credit_photo>&#169; Photo STC - Mairie de Toulouse</credit_photo>
+		<inscription_emplace>S.D. en bas à droite</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_217">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1896-01-01</date_acqui>
+		<designation>La Forêt de Rotherwood</designation>
+		<inscription_type_2>Date</inscription_type_2>
+		<domaine>Peinture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<mode_acquisition>Legs</mode_acquisition>
+		<numero_acquisition>1896.1</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_222">
+		<mesure_1>Hauteur : 91</mesure_1>
+		<numero_acquisition>1</numero_acquisition>
+		<localisation>musée des Augustins</localisation>
+		<date_affec>1794-01-01</date_affec>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Saisie révolutionnaire</mode_acquisition>
+		<mesure_2>Largeur : 228</mesure_2>
+		<fonction_usage>commande</fonction_usage>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<prov_geo>Capitole</prov_geo>
+	</oeuvre>
+
+	<oeuvre>
+		<donateur_vendeur>ROQUES  héritiers</donateur_vendeur>
+		<designation>Jeux nautiques sur la Garonne, à Toulouse, en</designation>
+		<matiere>toile</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>d59b4152d7f5e06a8f4c861318b53c83</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_248">
+		<mesure_1>Diamètre : 78</mesure_1>
+		<numero_acquisition>1835.7</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1835-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat au salon</mode_acquisition>
+		<datation_1>1835</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<inscription_emplace>S.D. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_250">
+		<mesure_1>Hauteur : 49</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>ROQUES, Joseph</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1850-01-01</date_acqui>
+		<numero_acquisition>1850.3</numero_acquisition>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 38</mesure_2>
+		<datation_1>1776-1800</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>SARAZIN DE BELMONT, Louise Joséphine</auteur_1>
+		<designation>Vue du couvent de Saint-Savin et de la vallée</designation>
+		<matiere>toile</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>56adfdf6fdf6ba209cc337e97f447002</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_262">
+		<mesure_1>Hauteur : 51.5</mesure_1>
+		<numero_acquisition>1893.1</numero_acquisition>
+		<auteur_1>SEVERAC, Gilbert Alexandre de</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1893-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Legs</mode_acquisition>
+		<mesure_2>Largeur : 40.5</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1859</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<inscription_emplace>S.D.H.D.</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_281">
+		<mesure_1>Hauteur : 43.5</mesure_1>
+		<numero_acquisition>1858.5</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1858-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat au salon</mode_acquisition>
+		<mesure_2>Largeur : 64.5</mesure_2>
+		<inscription_emplace>S. en bas à gauche</inscription_emplace>
+		<mesure_3>Hauteur avec cadre en cm : 52,7</mesure_3>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<datation_2>1851-1875</datation_2>
+	</oeuvre>
+
+	<oeuvre>
+		<inscription_transcr>E.YARZ</inscription_transcr>
+		<auteur_1>YARZ, Edmond</auteur_1>
+		<designation>Pins et Tamaris</designation>
+		<matiere>toile</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>c22f581c4028c3b19953a4ce3e48ea6f</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_322">
+		<mesure_1>Hauteur : 10.5</mesure_1>
+		<domaine>Peinture</domaine>
+		<inscription_type_1>Inscription</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<precision_auteur_2>Ancienne attribution</precision_auteur_2>
+		<numero_acquisition>1813.1</numero_acquisition>
+		<designation_3>esquisse</designation_3>
+		<designation_2>tableau</designation_2>
+		<date_acqui>1813-01-01</date_acqui>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 15.5</mesure_2>
+		<datation_1>1601-1650</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<inscription_emplace>revers</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_338">
+		<mesure_1>Hauteur : 91</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>LACOMA, Francisco José Pablo</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1853-01-01</date_acqui>
+		<numero_acquisition>1853.1</numero_acquisition>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Legs</mode_acquisition>
+		<mesure_2>Largeur : 70</mesure_2>
+		<datation_1>1802 entre</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1813 et</datation_2>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_2>Anonyme allemand</auteur_2>
+		<auteur_1>TREVISANI, Francesco</auteur_1>
+		<notes_aquisition>Envoi de l'Etat ?</notes_aquisition>
+		<designation>Autoportrait</designation>
+		<matiere>cuivre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>f2916a9fc4a79682fda8d91999934c94</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_446">
+		<mesure_1>Hauteur : 48</mesure_1>
+		<domaine>Peinture</domaine>
+		<localisation>musée des Augustins</localisation>
+		<numero_acquisition>1864.6</numero_acquisition>
+		<date_acqui>1864-01-01</date_acqui>
+		<mesure_2>Largeur : 86</mesure_2>
+		<designation_3>tableau</designation_3>
+		<precision_auteur_1>Attribué à</precision_auteur_1>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<precision_auteur_2>Attribué à</precision_auteur_2>
+		<datation_1>1601-1700</datation_1>
+		<designation_2>Amours nouant une guirlande</designation_2>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_487">
+		<mesure_1>Hauteur : 24.9</mesure_1>
+		<domaine>Peinture</domaine>
+		<mesure_3>Hauteur avec cadre en cm : 39,5</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<precision_auteur_2>Ancienne attribution</precision_auteur_2>
+		<numero_acquisition>1813.1</numero_acquisition>
+		<precision_auteur_1>Attribué à</precision_auteur_1>
+		<date_acqui>1813-01-01</date_acqui>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 34.2</mesure_2>
+		<datation_1>1645 entre</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<datation_2>1680 et</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_494">
+		<mesure_1>Hauteur : 75</mesure_1>
+		<numero_acquisition>1894.2</numero_acquisition>
+		<mesure_3>Hauteur avec cadre en cm : 123.5</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1894-01-01</date_acqui>
+		<domaine>Dessin</domaine>
+		<auteur_1>BEAURY-SAUREL, Amélie</auteur_1>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 82</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1894</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_emplace>A droite</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_497">
+		<mesure_1>Hauteur : 33</mesure_1>
+		<numero_acquisition>1894.2</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1894-01-01</date_acqui>
+		<domaine>Dessin</domaine>
+		<auteur_1>BERR DE TURIQUE, Jane</auteur_1>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 45</mesure_2>
+		<datation_2>1894 et</datation_2>
+		<datation_1>1891 entre</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<inscription_emplace>S. à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_618">
+		<mesure_1>Hauteur : 105,5</mesure_1>
+		<numero_acquisition>1904.2</numero_acquisition>
+		<mesure_3>Hauteur avec cadre en cm : 131</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1904-01-01</date_acqui>
+		<domaine>Dessin</domaine>
+		<auteur_1>TOULOUSE-LAUTREC, Henri de</auteur_1>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 67,5</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1896</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_emplace>S. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_624">
+		<mesure_1>Hauteur : 30.8</mesure_1>
+		<numero_acquisition>1896.1</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1896-01-01</date_acqui>
+		<domaine>Dessin</domaine>
+		<auteur_1>VEYRASSAT, Jules Jacques</auteur_1>
+		<mode_acquisition>Legs</mode_acquisition>
+		<mesure_2>Largeur : 48.5</mesure_2>
+		<datation_2>1893 et</datation_2>
+		<datation_1>1848 entre</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<inscription_emplace>S. en bas à droite</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_630">
+		<mesure_1>Hauteur : 60</mesure_1>
+		<domaine>Dessin</domaine>
+		<mesure_3>Hauteur avec cadre en cm : 66.2</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<precision_auteur_2>Ancienne attribution</precision_auteur_2>
+		<numero_acquisition>1794.2</numero_acquisition>
+		<auteur_1>VOLPATO, Giovanni</auteur_1>
+		<designation_2>Un panneau des Loges de Rapha\u00ebl au Vatican</designation_2>
+		<date_acqui>1794-01-01</date_acqui>
+		<mode_acquisition>Saisie révolutionnaire</mode_acquisition>
+		<mesure_2>Largeur : 57</mesure_2>
+		<datation_1>1751-1800</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_647">
+		<mesure_1>Hauteur : 38</mesure_1>
+		<numero_acquisition>1864.6</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1864-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 46</mesure_2>
+		<datation_2>1826-1850</datation_2>
+		<datation_1>1864 avant</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_emplace>S. en bas à droite</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_662">
+		<mesure_1>Hauteur : 80</mesure_1>
+		<numero_acquisition>1912.5</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1912-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<auteur_1>COURBET, Gustave</auteur_1>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 100</mesure_2>
+		<inscription_emplace>S. en bas à droite</inscription_emplace>
+		<mesure_3>Hauteur avec cadre en cm : 119,5</mesure_3>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<datation_2>1851-1875</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_663">
+		<mesure_1>Hauteur : 24</mesure_1>
+		<domaine>Peinture</domaine>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1920-01-01</date_acqui>
+		<mesure_2>Largeur : 32</mesure_2>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<precision_auteur_2>Ancienne attribution</precision_auteur_2>
+		<datation_1>1776-1800</datation_1>
+		<numero_acquisition>1920.1</numero_acquisition>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1801-1825</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_664">
+		<mesure_1>Hauteur : 121</mesure_1>
+		<mesure_2>Largeur : 184,5</mesure_2>
+		<auteur_1>DESMARETS</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1841-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<datation_1>1801-1825</datation_1>
+		<numero_acquisition>1841</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>FAURE, Jean-François</auteur_1>
+		<designation>Portrait de Loménie de Brienne, archevêque de</designation>
+		<matiere>toile</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>f53f7ba9078178060b6bf4ba617b301c</id>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>FOUET, Jean-Marie</auteur_1>
+		<designation>Portrait d'homme</designation>
+		<matiere>toile</matiere>
+		<inscription_type_2>Date</inscription_type_2>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>7a37b8a79f3a452a75c53c1be2a9dcb4</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_684">
+		<mesure_1>Hauteur : 41</mesure_1>
+		<domaine>Peinture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1920-01-01</date_acqui>
+		<inscription_transcr>GAUDEFROY 84</inscription_transcr>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat ?</mode_acquisition>
+		<datation_1>1884</datation_1>
+		<numero_acquisition>1920.2</numero_acquisition>
+		<mesure_2>Largeur : 31</mesure_2>
+		<inscription_emplace>S.D.D.</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_689">
+		<mesure_1>Hauteur : 64.5</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>GOLSE, Gabriel</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1920-01-01</date_acqui>
+		<numero_acquisition>1920.4</numero_acquisition>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Don ?</mode_acquisition>
+		<mesure_2>Largeur : 54</mesure_2>
+		<datation_1>1851-1875</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_690">
+		<mesure_1>Hauteur : 72</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>GRIMOU, Alexis</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1892-01-01</date_acqui>
+		<numero_acquisition>1892.1</numero_acquisition>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Legs</mode_acquisition>
+		<mesure_2>Largeur : 59.5</mesure_2>
+		<datation_1>1701-1750</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_697">
+		<mesure_1>Hauteur : 170</mesure_1>
+		<domaine>Peinture</domaine>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1908-01-01</date_acqui>
+		<mesure_2>Largeur : 110</mesure_2>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<datation_1>1900</datation_1>
+		<numero_acquisition>1908.3</numero_acquisition>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>?</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RO_699">
+		<date_affec>1914-10-01</date_affec>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1914-01-01</date_acqui>
+		<designation>L'Agitateur du Languedoc</designation>
+		<domaine>Peinture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<mode_acquisition>Legs</mode_acquisition>
+		<numero_acquisition>1913.4</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-54_6_1">
+		<mesure_1>Hauteur : 109</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>Anonyme français</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1954-01-01</date_acqui>
+		<numero_acquisition>1954.1</numero_acquisition>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 166</mesure_2>
+		<datation_1>1676-1700</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1701-1725</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-54_8_1">
+		<mesure_1>Hauteur : 275</mesure_1>
+		<numero_acquisition>1954.14</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<domaine>Dessin</domaine>
+		<date_acqui>1954-01-01</date_acqui>
+		<inscription_transcr>MARC / SAINT SAENS</inscription_transcr>
+		<auteur_1>SAINT-SAENS, Marc</auteur_1>
+		<designation_2>maquette</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<datation_2>1926-1950</datation_2>
+		<fonction_usage>carton de tapisserie</fonction_usage>
+		<mesure_2>Largeur : 529</mesure_2>
+		<inscription_emplace>S. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-55_1_1">
+		<mesure_1>Hauteur : 24</mesure_1>
+		<numero_acquisition>1955.1</numero_acquisition>
+		<mesure_3>Hauteur avec cadre en cm : 34</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1955-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<auteur_1>SUBLEYRAS-TIBALDI, Maria Felice</auteur_1>
+		<designation_2>étude</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 51</mesure_2>
+		<fonction_usage>projet pour un objet</fonction_usage>
+		<credit_photo>&#169; Photo STC - Mairie de Toulouse</credit_photo>
+		<datation_2>1726-1750</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-55_2_1_1">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1955-01-01</date_acqui>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<designation>Pélerinage au tombeau de sainte Catherine,</designation>
+		<inscription_type_2>Insc. conc. la représentation</inscription_type_2>
+		<domaine>Peinture</domaine>
+		<inscription_type_1>Date</inscription_type_1>
+		<mode_acquisition>Transfert</mode_acquisition>
+		<numero_acquisition>1955</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>TROY, François de</auteur_1>
+		<matiere>toile</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>ac9bd6089b8ccaf557fbe4cad6b86683</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-56_9_1">
+		<mesure_1>Hauteur : 60</mesure_1>
+		<numero_acquisition>1956.5</numero_acquisition>
+		<mesure_3>Hauteur avec cadre en cm : 83</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1956-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<auteur_1>ESPINASSE, Raymond</auteur_1>
+		<designation_2>L'Auto bleue</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1952</datation_1>
+		<mesure_2>Largeur : 81</mesure_2>
+		<inscription_emplace>S.D. en bas à droite</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme français</auteur_1>
+		<designation>Saint Sébastien</designation>
+		<matiere>pierre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>6fc61334fd1e8ef16e5814f920b4d545</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-57_3_1">
+		<mesure_1>Hauteur : 73</mesure_1>
+		<numero_acquisition>1956.7</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1956-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 92</mesure_2>
+		<datation_1>1956</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<inscription_emplace>S. en bas à droite</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-57_5_4">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1956-01-01</date_acqui>
+		<designation>L'Egypte montre le Colosse de Memnon</designation>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Insc. conc. la représentation</inscription_type_1>
+		<mode_acquisition>Achat</mode_acquisition>
+		<numero_acquisition>1956.13</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-57_5_7">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1956-01-01</date_acqui>
+		<designation>La Logique et l'Eloquence</designation>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Insc. conc. la représentation</inscription_type_1>
+		<mode_acquisition>Achat</mode_acquisition>
+		<numero_acquisition>1956.13</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-57_7_1">
+		<mesure_1>Hauteur : 52</mesure_1>
+		<numero_acquisition>1942.2</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1942-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<designation_2>buste</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 54</mesure_2>
+		<inscription_emplace>S. à gauche</inscription_emplace>
+		<mesure_3>Profondeur : 30</mesure_3>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1901-1925</datation_2>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Ma\u00eetre de Philippe de Lévis-Mirepoix</auteur_1>
+		<matiere>parchemin</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>54b294f3dcb380ad8956d63a4959541b</id>
+	</oeuvre>
+
+	<oeuvre>
+		<commanditaire>LEVIS, Philippe de</commanditaire>
+		<donateur_vendeur>Musée Saint-Raymond  musée municipal</donateur_vendeur>
+		<notes_aquisition>Transfert du Musée Saint-Raymond au Musée des Augustins le 12/11/1957.</notes_aquisition>
+		<designation>Antiphonaire de Mirepoix</designation>
+		<matiere>parchemin</matiere>
+		<fonction_usage>commande</fonction_usage>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>4c520d0f1f4f986d46bf4befb8ae2317</id>
+	</oeuvre>
+
+	<oeuvre>
+		<commanditaire>LEVIS, Philippe de</commanditaire>
+		<donateur_vendeur>Musée Saint-Raymond  musée municipal</donateur_vendeur>
+		<notes_aquisition>Transfert du Musée Saint-Raymond au Musée des Augustins le 12/11/1957.</notes_aquisition>
+		<designation>Antiphonaire de Mirepoix</designation>
+		<matiere>parchemin</matiere>
+		<fonction_usage>commande</fonction_usage>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>7f8c2848758deac98401cd4319055ff6</id>
+	</oeuvre>
+
+	<oeuvre>
+		<date_affec>1957-12-11</date_affec>
+		<date_entre>1957-12-11</date_entre>
+		<designation_3>LES DOUZE MOIS DE L'ANNEE ET LES DOUZE SIGNES DU</designation_3>
+		<designation>Février</designation>
+		<matiere>parchemin</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>c95f9e4a0efbd5c73c7fce2df84e4763</id>
+	</oeuvre>
+
+	<oeuvre>
+		<date_affec>1957-12-11</date_affec>
+		<date_entre>1957-12-11</date_entre>
+		<designation_3>LES DOUZE MOIS DE L'ANNEE ET LES DOUZE SIGNES DU</designation_3>
+		<designation>Mai</designation>
+		<matiere>parchemin</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>0e7536fcaf4320a4cd5fd5e7783e3e07</id>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>BOURDELLE, Emile Antoine</auteur_1>
+		<matiere>plâtre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>0d8919fbd643731f6e3344d428a9b395</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-58_1_4">
+		<mesure_1>Hauteur : 20.3</mesure_1>
+		<numero_acquisition>1958.2</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<auteur_1>LACGER, Jules de</auteur_1>
+		<date_acqui>1958-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_3>esquisse</designation_3>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 30.5</mesure_2>
+		<datation_2>1886 et</datation_2>
+		<datation_1>1850 entre</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<inscription_emplace>S. en bas à droite</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-59_1_1_4">
+		<mesure_1>Hauteur : 15.4</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>CHALETTE, Jean</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1959-01-01</date_acqui>
+		<numero_acquisition>1959.9</numero_acquisition>
+		<designation_3>fragment</designation_3>
+		<designation_2>peinture</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 21.7</mesure_2>
+		<datation_1>1612 entre</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1644 et</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-59_1_1_5">
+		<mesure_1>Hauteur : 15.7</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>CHALETTE, Jean</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1959-01-01</date_acqui>
+		<numero_acquisition>1959.9</numero_acquisition>
+		<designation_3>fragment</designation_3>
+		<designation_2>peinture</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 21.3</mesure_2>
+		<datation_1>1612 entre</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1644 et</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-59_1_1_8">
+		<mesure_1>Hauteur : 14.8</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>CHALETTE, Jean</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1959-01-01</date_acqui>
+		<numero_acquisition>1959.9</numero_acquisition>
+		<designation_3>fragment</designation_3>
+		<designation_2>peinture</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 20.8</mesure_2>
+		<datation_1>1612 entre</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1644 et</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-59_1_1_13">
+		<mesure_1>Hauteur : 15.5</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>CHALETTE, Jean</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1959-01-01</date_acqui>
+		<numero_acquisition>1959.9</numero_acquisition>
+		<designation_3>fragment</designation_3>
+		<designation_2>peinture</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 21.2</mesure_2>
+		<datation_1>1612 entre</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1644 et</datation_2>
+	</oeuvre>
+
+	<oeuvre>
+		<donateur_vendeur>MARESTAN  marchand</donateur_vendeur>
+		<designation>Autoportrait</designation>
+		<matiere>toile</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>c2b3b80c8bf1353d2436b214cb6d9c22</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-61_2_1">
+		<mesure_1>Hauteur : 41</mesure_1>
+		<numero_acquisition>1960.5</numero_acquisition>
+		<auteur_1>VILLEMSENS, Jean Blaise</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1960-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 33</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1839</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<inscription_emplace>S.D.C.D.</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-61_3_14">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1960-01-01</date_acqui>
+		<designation>Sainte Femme ou Vierge de l'Annonciation (?)</designation>
+		<domaine>Sculpture</domaine>
+		<mode_acquisition>Achat</mode_acquisition>
+		<date_de_collecte>1960</date_de_collecte>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme anglais</auteur_1>
+		<matiere>albâtre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>3e018f9515016e7cd59065c8b03d12e9</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-61_7_3">
+		<mesure_1>Hauteur : 75</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>LAFARGUE, Marc</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1961-01-01</date_acqui>
+		<numero_acquisition>1961.1</numero_acquisition>
+		<designation_2>VERSO : LE PUITS DU JARDIN DE MARC LAFARGUE A</designation_2>
+		<mode_acquisition>Legs</mode_acquisition>
+		<mesure_2>Largeur : 105</mesure_2>
+		<datation_1>1896 entre</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<datation_2>1927 et</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-61_7_4">
+		<mesure_1>Hauteur : 101</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>LAFARGUE, Marc</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1961-01-01</date_acqui>
+		<numero_acquisition>1961.1</numero_acquisition>
+		<mode_acquisition>Legs</mode_acquisition>
+		<mesure_2>Largeur : 75</mesure_2>
+		<datation_1>1896 entre</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<datation_2>1927 et</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-61_7_13">
+		<mesure_1>Hauteur : 30</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>LAFARGUE, Marc</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1961-01-01</date_acqui>
+		<numero_acquisition>1961.1</numero_acquisition>
+		<designation_2>VERSO : AUTOPORTRAIT</designation_2>
+		<mode_acquisition>Legs</mode_acquisition>
+		<mesure_2>Largeur : 35</mesure_2>
+		<datation_1>1896 entre</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<datation_2>1927 et</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-61_7_15">
+		<mesure_1>Hauteur : 75</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>LAFARGUE, Marc</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1961-01-01</date_acqui>
+		<numero_acquisition>1961.1</numero_acquisition>
+		<designation_2>VERSO : FEMME COUSANT</designation_2>
+		<mode_acquisition>Legs</mode_acquisition>
+		<mesure_2>Largeur : 101</mesure_2>
+		<datation_1>1896 entre</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<datation_2>1927 et</datation_2>
+	</oeuvre>
+
+	<oeuvre>
+		<donateur_vendeur>LAFARGUE, Mlle Louise  particulier</donateur_vendeur>
+		<designation>Femme lisant dans un fauteuil</designation>
+		<matiere>carton</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>8e91d42cb4927310ae5cceb97df70c9f</id>
+	</oeuvre>
+
+	<oeuvre>
+		<donateur_vendeur>LAFARGUE, Mlle Louise  particulier</donateur_vendeur>
+		<designation>Femme au jardin</designation>
+		<matiere>papier</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>82c8bd63f800ee0d90062c37d6a259a8</id>
+	</oeuvre>
+
+	<oeuvre>
+		<donateur_vendeur>LAFARGUE, Mlle Louise  particulier</donateur_vendeur>
+		<designation>Femme couchée sur un canapé</designation>
+		<matiere>papier</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>462c444159d97584b31cf186c8e0aada</id>
+	</oeuvre>
+
+	<oeuvre>
+		<donateur_vendeur>LAFARGUE, Mlle Louise  particulier</donateur_vendeur>
+		<designation>Louise Lafargue lisant</designation>
+		<matiere>papier</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>3bb52f320d65202d224b603442e635ff</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-61_7_41">
+		<mesure_1>Hauteur : 33</mesure_1>
+		<domaine>Dessin</domaine>
+		<auteur_1>LAFARGUE, Marc</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1961-01-01</date_acqui>
+		<numero_acquisition>1961.1</numero_acquisition>
+		<mode_acquisition>Legs</mode_acquisition>
+		<mesure_2>Largeur : 30</mesure_2>
+		<datation_1>1896 entre</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1927 et</datation_2>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<designation>Chapiteau pour une colonnette à deux rangs de</designation>
+		<matiere>pierre</matiere>
+		<datation_1>1401-1500 ?</datation_1>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>78fabaef889c8a066893211ec5211dea</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-63_4_1">
+		<mesure_1>Hauteur : 54</mesure_1>
+		<numero_acquisition>1962.2</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1962-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<auteur_1>BEZOMBES, Roger</auteur_1>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 73</mesure_2>
+		<datation_2>1951-1975</datation_2>
+		<datation_1>1962 vers</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<inscription_emplace>S. en bas à droite</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>FABRE, Abel</auteur_1>
+		<matiere>plâtre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>7588dcc1d3c4d879edc92626b2f0f6cc</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-67_3_1">
+		<mesure_1>Hauteur : 97</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>GERMAIN, Jacques</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1964-01-01</date_acqui>
+		<numero_acquisition>1964.3</numero_acquisition>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 130</mesure_2>
+		<datation_1>1963</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-67_13_1">
+		<mesure_1>Hauteur : 60</mesure_1>
+		<numero_acquisition>1965.8</numero_acquisition>
+		<mesure_3>Profondeur : 14</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1965-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<auteur_1>SALILLAS, Jean</auteur_1>
+		<designation_2>statuette</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 15</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1951-1975</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<inscription_transcr>J.S.</inscription_transcr>
+	</oeuvre>
+
+	<oeuvre>
+		<donateur_vendeur>galerie LOCRE  galerie</donateur_vendeur>
+		<designation>L'inspiration d'Anacréon</designation>
+		<matiere>bois</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>995146bffaa3f72df40e089251fe953b</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-67_29_1">
+		<mesure_1>Hauteur : 162</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>DE CARO, Anita</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1966-01-01</date_acqui>
+		<numero_acquisition>1966.7</numero_acquisition>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 130</mesure_2>
+		<datation_1>1966 vers</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-67_31_1">
+		<mesure_1>Hauteur : 130,5</mesure_1>
+		<numero_acquisition>1966.1</numero_acquisition>
+		<auteur_1>ISCAN, Ferit</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1966-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 162</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1965</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_emplace>S.D. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-67_39_6">
+		<mesure_1>Hauteur : 50</mesure_1>
+		<numero_acquisition>1967.4</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1967-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<auteur_1>LAUGE, Achille</auteur_1>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 61</mesure_2>
+		<datation_2>1905 et</datation_2>
+		<datation_1>1890 entre</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<inscription_emplace>S.H.D.</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-67_39_8">
+		<mesure_1>Hauteur : 55</mesure_1>
+		<numero_acquisition>1967.4</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1967-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<auteur_1>ANDRE, Albert</auteur_1>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 46</mesure_2>
+		<datation_2>1925 et</datation_2>
+		<datation_1>1890 entre</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<inscription_emplace>S.H.D.</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-67_39_11">
+		<mesure_1>Hauteur : 27</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>HUGO, Georges</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1967-01-01</date_acqui>
+		<numero_acquisition>1967.4</numero_acquisition>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 37</mesure_2>
+		<datation_1>1925 avant</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1901-1925</datation_2>
+	</oeuvre>
+
+	<oeuvre>
+		<donateur_vendeur>VITAL, Mme  particulier</donateur_vendeur>
+		<designation>Portrait d'homme</designation>
+		<matiere>toile</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>1c31a833386a262d2cf1591730610db9</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-68_8_1">
+		<mesure_1>Hauteur : 63</mesure_1>
+		<numero_acquisition>1968.5</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1968-01-01</date_acqui>
+		<domaine>Dessin</domaine>
+		<auteur_1>PRAX, Valentine</auteur_1>
+		<mode_acquisition>Achat</mode_acquisition>
+		<inscription_emplace>S. en bas à gauche</inscription_emplace>
+		<mesure_3>Hauteur avec cadre en cm : 88</mesure_3>
+		<mesure_2>Largeur : 50</mesure_2>
+		<datation_2>1940 et</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-68_9_1">
+		<mesure_1>Hauteur : 55.8</mesure_1>
+		<numero_acquisition>1968.7</numero_acquisition>
+		<auteur_1>JACQUESSON DE LA CHEVREUSE, Louis</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1968-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 46.5</mesure_2>
+		<inscription_type_1>Dédicace</inscription_type_1>
+		<datation_1>1867</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<inscription_emplace>S.D.D.H.G.</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-68_18_1">
+		<mesure_1>Hauteur : 73</mesure_1>
+		<numero_acquisition>1968.1</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1968-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<auteur_1>MONTANE, Roger</auteur_1>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 54</mesure_2>
+		<datation_2>1951-1975</datation_2>
+		<datation_1>1968 avant</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<inscription_emplace>S. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-69_3_1">
+		<mesure_1>Hauteur : 69.5</mesure_1>
+		<numero_acquisition>1969.3</numero_acquisition>
+		<auteur_1>VOS, Simon de</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1969-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 86.4</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1655</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_emplace>S.D. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-70_3_1">
+		<mesure_1>Hauteur : 235</mesure_1>
+		<domaine>Sculpture</domaine>
+		<auteur_1>RIVIERE, Théodore Louis Auguste</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1970-01-01</date_acqui>
+		<numero_acquisition>1970.11</numero_acquisition>
+		<designation_2>groupe relié</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 142</mesure_2>
+		<datation_1>1901-1925</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-71_1_1">
+		<mesure_1>Hauteur : 28</mesure_1>
+		<numero_acquisition>1971.1</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1971-01-01</date_acqui>
+		<domaine>Dessin</domaine>
+		<auteur_1>BERINGUIER, Gabriel</auteur_1>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 43</mesure_2>
+		<datation_2>1851-1900</datation_2>
+		<datation_1>1870 après</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<inscription_emplace>S. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-71_1_2">
+		<mesure_1>Hauteur : 45</mesure_1>
+		<numero_acquisition>1971.1</numero_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1971-01-01</date_acqui>
+		<domaine>Dessin</domaine>
+		<auteur_1>BERINGUIER, Gabriel</auteur_1>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 30</mesure_2>
+		<datation_2>1851-1900</datation_2>
+		<datation_1>1870 après</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<inscription_emplace>S. en bas à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-71_1_3">
+		<date_affec>1971-10-04</date_affec>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1971-01-01</date_acqui>
+		<prix_achat>400,00 FRF</prix_achat>
+		<designation>LE BUCHERON</designation>
+		<domaine>Peinture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<mode_acquisition>Achat</mode_acquisition>
+		<numero_acquisition>1971.1</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-71_2_1">
+		<mesure_1>Hauteur : 83</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>Anonyme français</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1971-01-01</date_acqui>
+		<numero_acquisition>1971.2</numero_acquisition>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 67</mesure_2>
+		<datation_1>1626-1650</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<datation_2>1651-1675</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-71_2_6">
+		<mesure_1>Hauteur : 58</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>Anonyme languedocien</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<precision_auteur_2>Attribué à</precision_auteur_2>
+		<numero_acquisition>1971.2</numero_acquisition>
+		<designation_2>tableau</designation_2>
+		<date_acqui>1971-01-01</date_acqui>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 49</mesure_2>
+		<datation_1>1801-1825</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_2>ROSA, Salvator</auteur_2>
+		<donateur_vendeur>CALVET, Mlle  particulier</donateur_vendeur>
+		<designation>Paysage avec scène de brigandage</designation>
+		<matiere>toile</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>3732c70e6200f07268e73151e3f40389</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-71_2_12">
+		<mesure_1>Hauteur : 70</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>BEINASCHI, Giovanni Battista</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<precision_auteur_2>Ancienne attribution</precision_auteur_2>
+		<numero_acquisition>1971.2</numero_acquisition>
+		<precision_auteur_1>Attribué à</precision_auteur_1>
+		<date_acqui>1971-01-01</date_acqui>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 74</mesure_2>
+		<datation_1>1651-1700</datation_1>
+		<designation_2>tableau</designation_2>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-71_2_15">
+		<mesure_1>Hauteur : 64</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>FRANCKEN, Frans II</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<precision_auteur_2>Attribué à</precision_auteur_2>
+		<numero_acquisition>1971.2</numero_acquisition>
+		<precision_auteur_1>Attribué à</precision_auteur_1>
+		<date_acqui>1971-01-01</date_acqui>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 49</mesure_2>
+		<designation_2>tableau</designation_2>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-73_2_1">
+		<mesure_1>Hauteur : 72</mesure_1>
+		<numero_acquisition>1973.2</numero_acquisition>
+		<auteur_1>BERGOUGNAN, Raoul</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1973-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1972</datation_1>
+		<mesure_2>Largeur : 92</mesure_2>
+		<inscription_emplace>S. en bas à droite</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-74_3_1">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1974-01-01</date_acqui>
+		<notes_aquisition>Achat du musée, subventionné par la Direction des Musées de France.</notes_aquisition>
+		<designation>Etude d'après le Coup de Lance</designation>
+		<inscription_type_2>Date</inscription_type_2>
+		<domaine>Peinture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<mode_acquisition>Achat en vente publique</mode_acquisition>
+		<numero_acquisition>1974.3</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre>
+		<donateur_vendeur>METTEIX, M.  particulier</donateur_vendeur>
+		<designation>Etude de tête de femme</designation>
+		<matiere>toile</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>d9ceab801b3d37fa266746f74834e63b</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-75_5_1">
+		<mesure_1>Hauteur : 60</mesure_1>
+		<numero_acquisition>1975.2</numero_acquisition>
+		<auteur_1>SAINT-SAENS, Marc</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1975-01-01</date_acqui>
+		<domaine>Peinture</domaine>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 150</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1975</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<inscription_transcr>Saint-Sa\u00ebns</inscription_transcr>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-76_2_1">
+		<mesure_1>Hauteur : 29.5</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 8.5</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1976-01-01</date_acqui>
+		<numero_acquisition>1976.7</numero_acquisition>
+		<designation_3>maquette</designation_3>
+		<designation_2>statuette</designation_2>
+		<mode_acquisition>Achat en vente publique</mode_acquisition>
+		<mesure_2>Largeur : 11</mesure_2>
+		<datation_1>1676-1700</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1701-1750</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-76_10_1">
+		<mesure_1>Hauteur : 112</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>KABLATT</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1976-01-01</date_acqui>
+		<numero_acquisition>1976.4</numero_acquisition>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 90</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1976 vers</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<datation_2>1976-2000</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-76_13_11">
+		<mesure_1>Hauteur : 15</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 21.5</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1976-01-01</date_acqui>
+		<numero_acquisition>1976.9</numero_acquisition>
+		<designation_3>partie d'un ensemble de sculptures</designation_3>
+		<designation_2>fragment</designation_2>
+		<mode_acquisition>Dévolution</mode_acquisition>
+		<date_de_collecte>1976</date_de_collecte>
+		<site_de_collecte>/ Couvent des Augustins : salle capitulaire : Toulouse</site_de_collecte>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<mesure_2>Largeur : 49</mesure_2>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<prov_geo>Cathédrale Saint-Etienne</prov_geo>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<matiere>pierre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>c939022968ec82e0f1dceb691130647e</id>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<designation>Fragment portant un angle d'étoffe à frange</designation>
+		<matiere>pierre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>164a541aabd629c11d52edbbe5b3693c</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-76_13_22_E-F">
+		<domaine>Sculpture</domaine>
+		<site_de_collecte>/ Couvent des Augustins : Toulouse</site_de_collecte>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1976-01-01</date_acqui>
+		<numero_acquisition>1976.9</numero_acquisition>
+		<designation_3>fragment</designation_3>
+		<designation_2>ensemble déposé</designation_2>
+		<mode_acquisition>Dévolution</mode_acquisition>
+		<date_de_collecte>1976</date_de_collecte>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<prov_geo>France</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-76_14_2">
+		<mesure_1>Hauteur : 8.5</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 8</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1976-01-01</date_acqui>
+		<numero_acquisition>1976.9</numero_acquisition>
+		<designation_3>partie d'un ensemble de sculptures</designation_3>
+		<designation_2>fragment</designation_2>
+		<mode_acquisition>Dévolution</mode_acquisition>
+		<date_de_collecte>1976</date_de_collecte>
+		<site_de_collecte>/ Couvent des Augustins : salle capitulaire : Toulouse</site_de_collecte>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<mesure_2>Largeur : 11</mesure_2>
+		<prov_geo>Basilique Saint-Sernin</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-76_14_6">
+		<mesure_1>Hauteur : 11</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 34</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1976-01-01</date_acqui>
+		<numero_acquisition>1976.9</numero_acquisition>
+		<designation_3>relief</designation_3>
+		<designation_2>fragment</designation_2>
+		<mode_acquisition>Dévolution</mode_acquisition>
+		<date_de_collecte>1976</date_de_collecte>
+		<site_de_collecte>/ Couvent des Augustins : clo\u00eetre : Toulouse</site_de_collecte>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<mesure_2>Largeur : 32</mesure_2>
+		<prov_geo>France</prov_geo>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<designation>chapiteau pour une colonne</designation>
+		<matiere>pierre</matiere>
+		<datation_1>1201-1300</datation_1>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>ba0164943ab480cdacc46274598c53b9</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-77_4_2">
+		<mesure_1>Hauteur : 121</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 76</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1977-01-01</date_acqui>
+		<numero_acquisition>1977.16</numero_acquisition>
+		<auteur_1>LUCAS, François</auteur_1>
+		<precision_auteur_1>Attribué à</precision_auteur_1>
+		<mode_acquisition>Don</mode_acquisition>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<designation_2>partie d'un ensemble de sculptures</designation_2>
+		<mesure_2>Largeur : 176</mesure_2>
+		<prov_geo>Château d'Orbessan</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-77_7_5">
+		<mesure_1>Hauteur : 58</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 29</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1977-01-01</date_acqui>
+		<numero_acquisition>1977.2</numero_acquisition>
+		<designation_3>partie d'un ensemble de sculptures</designation_3>
+		<designation_2>groupe relié</designation_2>
+		<mode_acquisition>Dévolution</mode_acquisition>
+		<date_de_collecte>1977</date_de_collecte>
+		<site_de_collecte>/ Couvent des Augustins : gd clo\u00eetre, gal orientale : Toulouse</site_de_collecte>
+		<datation_1>1476-1500</datation_1>
+		<mesure_2>Largeur : 68</mesure_2>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-77_7_8">
+		<mesure_1>Hauteur : 98</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 22.5</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1977-01-01</date_acqui>
+		<numero_acquisition>1977.2</numero_acquisition>
+		<designation_3>partie d'un ensemble de sculptures</designation_3>
+		<designation_2>partie d'un groupe non relié</designation_2>
+		<mode_acquisition>Dévolution</mode_acquisition>
+		<date_de_collecte>1977</date_de_collecte>
+		<site_de_collecte>/ Couvent des Augustins : gd clo\u00eetre, gal orientale : Toulouse</site_de_collecte>
+		<datation_1>1501-1525</datation_1>
+		<mesure_2>Largeur : 35</mesure_2>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<prov_geo>Toulouse</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-77_9_2">
+		<mesure_1>Hauteur : 45</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 38</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1977-01-01</date_acqui>
+		<numero_acquisition>1977.14</numero_acquisition>
+		<auteur_1>LUCAS, Pierre</auteur_1>
+		<precision_auteur_1>Attribué à</precision_auteur_1>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 60</mesure_2>
+		<site_de_collecte>/ Château d'Orbessan : parc : Gers</site_de_collecte>
+		<datation_1>1732</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<prov_geo>Château d'Orbessan</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-77_10_3">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1977-01-01</date_acqui>
+		<fonction_usage>commande</fonction_usage>
+		<commanditaire>CHABAUD, Léon, ma\u00eetre</commanditaire>
+		<designation>L'Automne</designation>
+		<inscription_type_2>Insc. conc. la représentation</inscription_type_2>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<mode_acquisition>Achat en vente publique</mode_acquisition>
+		<numero_acquisition>1977.3</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-77_11_2">
+		<mesure_1>Hauteur : 38</mesure_1>
+		<numero_acquisition>1977.14</numero_acquisition>
+		<mesure_3>Profondeur : 32</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1977-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<auteur_1>Anonyme</auteur_1>
+		<designation_2>relief</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<mesure_2>Largeur : 52.5</mesure_2>
+		<prov_geo>Clo\u00eetre des dominicains</prov_geo>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1301-1325</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-77_14_6">
+		<mesure_1>Hauteur : 92</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>LASSAVE, Jean-François</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1977-11-30</date_acqui>
+		<numero_acquisition>1977.1</numero_acquisition>
+		<designation_3>réplique</designation_3>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Legs</mode_acquisition>
+		<mesure_2>Largeur : 71</mesure_2>
+		<datation_1>1805 vers</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<datation_2>1801-1825</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-77_14_8">
+		<mesure_1>Hauteur : 56</mesure_1>
+		<domaine>Peinture</domaine>
+		<auteur_1>LASSAVE, Jean-François</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1977-11-30</date_acqui>
+		<numero_acquisition>1977.1</numero_acquisition>
+		<designation_2>tableau</designation_2>
+		<mode_acquisition>Legs</mode_acquisition>
+		<mesure_2>Largeur : 38.2</mesure_2>
+		<datation_1>1787 après</datation_1>
+		<credit_photo>&#169; Photo Bernard Delorme</credit_photo>
+		<datation_2>?</datation_2>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme français</auteur_1>
+		<matiere>marbre noir</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>88a948c5b71d6dc0997c45780461befe</id>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<matiere>marbre gris</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>0244d83f04bfee76d6a9f32ba0e00e20</id>
+	</oeuvre>
+
+	<oeuvre>
+		<donateur_vendeur>MARMIER  vendeur</donateur_vendeur>
+		<designation_3>partie d'un ensemble de sculptures</designation_3>
+		<designation>base de colonnes jumelles</designation>
+		<matiere>marbre gris</matiere>
+		<datation_1>1301-1400</datation_1>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>48e5782dac55d40c154560cad44d6631</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-78_4_1">
+		<mesure_1>Hauteur : 75</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 39</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1978-01-01</date_acqui>
+		<numero_acquisition>1978.3</numero_acquisition>
+		<designation_2>groupe relié</designation_2>
+		<mode_acquisition>Dévolution</mode_acquisition>
+		<date_de_collecte>1978</date_de_collecte>
+		<site_de_collecte>/ Domaine de Candie : chapelle : Toulouse</site_de_collecte>
+		<datation_1>1476-1500</datation_1>
+		<mesure_2>Largeur : 95</mesure_2>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<prov_geo>Domaine de Candie</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-80_3_1">
+		<mesure_1>Hauteur : 93</mesure_1>
+		<mesure_2>Largeur : 51.5</mesure_2>
+		<mesure_3>Profondeur : 30</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1980-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<designation_3>piédroit</designation_3>
+		<designation_2>relief</designation_2>
+		<date_de_collecte>1980</date_de_collecte>
+		<site_de_collecte>/ Couvent des Augustins : réfectoire : Toulouse</site_de_collecte>
+		<datation_1>1301-1400</datation_1>
+		<numero_acquisition>1980.3</numero_acquisition>
+		<prov_geo>Couvent des Augustins</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-81_3_5">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1981-01-01</date_acqui>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<designation>Elément de pierre taillée moulurée</designation>
+		<domaine>Sculpture</domaine>
+		<mode_acquisition>Don</mode_acquisition>
+		<date_de_collecte>1981</date_de_collecte>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-82_9_4">
+		<mesure_1>Hauteur : 80</mesure_1>
+		<domaine>Sculpture</domaine>
+		<auteur_1>ARCIS, Marc</auteur_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1982-01-01</date_acqui>
+		<numero_acquisition>1982.8</numero_acquisition>
+		<designation_2>buste</designation_2>
+		<mode_acquisition>Mode d'acquisition particulier</mode_acquisition>
+		<mesure_2>Largeur : 78</mesure_2>
+		<datation_1>1674 entre : date de commande</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1677 et</datation_2>
+	</oeuvre>
+
+	<oeuvre>
+		<donateur_vendeur>Capitole de Toulouse</donateur_vendeur>
+		<notes_aquisition>Transfert de la Salle des Illustres du Capitole de Toulouse.</notes_aquisition>
+		<designation>Pons</designation>
+		<matiere>terre cuite</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>7d75ac8f71d28a26d3c8ba16e7af3320</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-83_4_1_A-I">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1983-01-01</date_acqui>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<notes_aquisition>Groupe déposé et remplacé par un moulage par l'atelier de restauration des musées de Toulouse.</notes_aquisition>
+		<designation>Deux enfants présentant un médaillon</designation>
+		<domaine>Sculpture</domaine>
+		<mode_acquisition>Don</mode_acquisition>
+		<date_de_collecte>1983</date_de_collecte>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-83_4_3_A-E">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1983-01-01</date_acqui>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<notes_aquisition>Le groupe a été déposé et remplacé par un moulage par l'atelier de restauration des musées de Toulouse.</notes_aquisition>
+		<designation>Allégorie de la Science et du Temps</designation>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Inscription</inscription_type_1>
+		<mode_acquisition>Don</mode_acquisition>
+		<date_de_collecte>1983</date_de_collecte>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<matiere>pierre ocre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>9f277fde1ea9d1d8ad5c141c07f05a53</id>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<matiere>pierre ocre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>96084919737804ed07f4973025c8144d</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-83_5_9">
+		<mesure_1>Hauteur : 30</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 24,5</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1983-01-01</date_acqui>
+		<numero_acquisition>1983.12</numero_acquisition>
+		<designation_3>partie d'un ensemble de sculptures</designation_3>
+		<designation_2>relief</designation_2>
+		<mode_acquisition>Echange</mode_acquisition>
+		<date_de_collecte>1865</date_de_collecte>
+		<site_de_collecte>/ Eglise romane : Saint-Rustice</site_de_collecte>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<mesure_2>Largeur : 25</mesure_2>
+		<datation_2>1101-1125</datation_2>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<matiere>pierre ocre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>da7b639f3b37c345e7ac02d97ec11154</id>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<matiere>pierre ocre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>1bf93c8672679e2eae328abe8f4670f4</id>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<matiere>pierre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>bc615ae79dcc4b8be3eff79ef37e82d8</id>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<matiere>pierre ocre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>619bb70d762de6c098ddd8e50c31fe6c</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-83_5_27">
+		<mesure_1>Hauteur : 18</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 36</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1983-09-01</date_acqui>
+		<numero_acquisition>1983.21</numero_acquisition>
+		<auteur_1>Anonyme</auteur_1>
+		<designation_2>partie d'un ensemble de sculptures</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<date_de_collecte>1865</date_de_collecte>
+		<site_de_collecte>/ Eglise romane : Saint-Rustice</site_de_collecte>
+		<datation_1>1107 après</datation_1>
+		<mesure_2>Largeur : 63</mesure_2>
+		<datation_2>1107</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-83_5_28">
+		<mesure_1>Hauteur : 17</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 28</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1983-09-01</date_acqui>
+		<numero_acquisition>1983.21</numero_acquisition>
+		<auteur_1>Anonyme</auteur_1>
+		<designation_2>partie d'un ensemble de sculptures</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<date_de_collecte>1865</date_de_collecte>
+		<site_de_collecte>/ Eglise romane : Saint-Rustice</site_de_collecte>
+		<datation_1>1107 après</datation_1>
+		<mesure_2>Largeur : 40</mesure_2>
+		<datation_2>1107</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1047_Z">
+		<mesure_1>Hauteur : 24</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 19</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1921-01-01</date_acqui>
+		<numero_acquisition>1921.3</numero_acquisition>
+		<auteur_1>MARQUESTE, Laurent-Honoré</auteur_1>
+		<designation_2>groupe relié</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 11</mesure_2>
+		<datation_1>1851-1900</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<datation_2>1901-1925</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1058_B">
+		<mesure_1>Profondeur : 30</mesure_1>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Armoiries</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<auteur_1>Anonyme</auteur_1>
+		<date_acqui>1932-01-01</date_acqui>
+		<numero_acquisition>1932.9</numero_acquisition>
+		<designation_3>relief</designation_3>
+		<designation_2>partie d'un ensemble de sculptures</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<date_de_collecte>1932</date_de_collecte>
+		<site_de_collecte>/ ancienne faculté des Lettres : rue de Rémusat : Toulouse</site_de_collecte>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<prov_geo>Hôtel du Sénéchal</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1058_C">
+		<mesure_1>Profondeur : 30</mesure_1>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Armoiries</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<auteur_1>Anonyme</auteur_1>
+		<date_acqui>1932-01-01</date_acqui>
+		<numero_acquisition>1932.9</numero_acquisition>
+		<designation_3>relief</designation_3>
+		<designation_2>partie d'un ensemble de sculptures</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<date_de_collecte>1932</date_de_collecte>
+		<site_de_collecte>/ ancienne faculté des Lettres : rue de Rémusat : Toulouse</site_de_collecte>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<prov_geo>Hôtel du Sénéchal</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1059">
+		<mesure_1>Hauteur : 47.5</mesure_1>
+		<numero_acquisition>1932.8</numero_acquisition>
+		<mesure_3>Profondeur : 54.5</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1932-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<auteur_1>Anonyme</auteur_1>
+		<designation_2>bas-relief</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 67</mesure_2>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+		<prov_geo>Rieux-Volvestre</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1064">
+		<donateur_vendeur>CLARA, José  artiste</donateur_vendeur>
+		<numero_acquisition>1931.2</numero_acquisition>
+		<mesure_1>Hauteur : 150</mesure_1>
+		<localisation>musée des Augustins</localisation>
+		<domaine>Sculpture</domaine>
+		<auteur_1>CLARA, José</auteur_1>
+		<designation_2>ronde-bosse</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1909</datation_1>
+		<inscription_emplace>S.D. AR. sur le socle</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1067">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1934-01-01</date_acqui>
+		<designation>Paul Cruppi</designation>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<mode_acquisition>Don</mode_acquisition>
+		<numero_acquisition>1934.9</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1072">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1940-01-01</date_acqui>
+		<designation>Tête de saint</designation>
+		<domaine>Sculpture</domaine>
+		<mode_acquisition>Don</mode_acquisition>
+		<date_de_collecte>1940</date_de_collecte>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1073">
+		<mesure_1>Largeur : 36</mesure_1>
+		<numero_acquisition>1940.1</numero_acquisition>
+		<inscription_type_1>Armoiries</inscription_type_1>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1940-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<auteur_1>Anonyme français</auteur_1>
+		<designation_2>bas-relief</designation_2>
+		<collecteur>DELFAU, Paul</collecteur>
+		<mode_acquisition>Don</mode_acquisition>
+		<date_de_collecte>1940</date_de_collecte>
+		<site_de_collecte>/ Couvent des Cordeliers : salle capitulaire : Toulouse</site_de_collecte>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<mesure_2>Profondeur : 42</mesure_2>
+		<prov_geo>Couvent des Cordeliers</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1083">
+		<mesure_1>Hauteur : 73</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 19</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1944-01-01</date_acqui>
+		<numero_acquisition>1944.2</numero_acquisition>
+		<designation_2>statuette</designation_2>
+		<mode_acquisition>Achat</mode_acquisition>
+		<executant>GISCARD</executant>
+		<datation_1>1936 : date du plâtre d'origine</datation_1>
+		<mesure_2>Largeur : 22</mesure_2>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1086">
+		<mesure_1>Hauteur : 96.5</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 23</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1805-01-01</date_acqui>
+		<numero_acquisition>1805.1</numero_acquisition>
+		<designation_2>statue</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 35.5</mesure_2>
+		<datation_1>1476-1500</datation_1>
+		<credit_photo>&#169; Photo Daniel Martin</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1090">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1927-01-01</date_acqui>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<designation>Jeune homme imberbe vêtu à l'antique</designation>
+		<domaine>Sculpture</domaine>
+		<date_de_collecte>1926</date_de_collecte>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1092">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1927-01-01</date_acqui>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<designation>Vierge à l'Enfant</designation>
+		<domaine>Sculpture</domaine>
+		<date_de_collecte>1926</date_de_collecte>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1103">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1927-01-01</date_acqui>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<designation>Vieillard barbu</designation>
+		<domaine>Sculpture</domaine>
+		<date_de_collecte>1926</date_de_collecte>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_1106">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1927-01-01</date_acqui>
+		<fonction_usage>décor d'architecture</fonction_usage>
+		<designation>TETE D'ANGE</designation>
+		<domaine>Sculpture</domaine>
+		<date_de_collecte>1926</date_de_collecte>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<designation>Figure à l'antique</designation>
+		<matiere>plâtre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>840972e3b8c1ffee117e07e78d1a17fd</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2004">
+		<mesure_1>Hauteur : 26.5</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 3</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<numero_acquisition>8</numero_acquisition>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 11.5</mesure_2>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2015">
+		<mesure_1>Hauteur : 40.7</mesure_1>
+		<numero_acquisition>1964.9</numero_acquisition>
+		<mesure_3>Profondeur : 22</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1964-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<designation_2>statuette</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 18</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1919</datation_1>
+		<credit_photo>&#169; STC - Mairie de Toulouse</credit_photo>
+		<inscription_emplace>S.D. à droite sur le socle</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2021">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1980-01-01</date_acqui>
+		<designation>Fuite en Egypte</designation>
+		<notes_aquisition_2>Les oeuvres sont arrivées au musée en 1981. Avis de la Commission Technique des Beaux-Arts le 04/05/1982. Délibération municipale du 28/06/1989</notes_aquisition_2>
+		<inscription_type_2>Date</inscription_type_2>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<mode_acquisition>Don</mode_acquisition>
+		<numero_acquisition>1980.6</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2022">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1980-01-01</date_acqui>
+		<designation>La Fontaine espagnole</designation>
+		<notes_aquisition_2>Les oeuvres sont arrivées au musée en 1981. Avis de la Commission Technique des Beaux-Arts le 04/05/1982. Délibération municipale du 28/06/1989</notes_aquisition_2>
+		<inscription_type_2>Insc. conc. le lieu</inscription_type_2>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Date</inscription_type_1>
+		<mode_acquisition>Don</mode_acquisition>
+		<numero_acquisition>1980.6</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2026">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1980-01-01</date_acqui>
+		<designation>Nu assis</designation>
+		<notes_aquisition_2>Les oeuvres sont arrivées au musée en 1981. Avis de la Commission Technique des Beaux-Arts le 04/05/1982. Délibération municipale du 28/06/1989</notes_aquisition_2>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<mode_acquisition>Don</mode_acquisition>
+		<numero_acquisition>1980.6</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2027">
+		<mesure_1>Hauteur : 43</mesure_1>
+		<numero_acquisition>1980.6</numero_acquisition>
+		<mesure_3>Profondeur : 12</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1980-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<auteur_1>PRIVAT, Gilbert</auteur_1>
+		<designation_2>ronde-bosse</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 15</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1901-1950</datation_1>
+		<credit_photo>&#169; STC - Mairie de Toulouse</credit_photo>
+		<datation_2>1951-1975</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2031">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1980-01-01</date_acqui>
+		<designation>Nu assis à la chevelure</designation>
+		<notes_aquisition_2>Les oeuvres sont arrivées au musée en 1981. Avis de la Commission Technique des Beaux-Arts le 04/05/1982. Délibération municipale du 28/06/1989</notes_aquisition_2>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<mode_acquisition>Don</mode_acquisition>
+		<numero_acquisition>1980.6</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2033">
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1980-01-01</date_acqui>
+		<designation>bas-relief</designation>
+		<notes_aquisition_2>Les oeuvres sont arrivées au musée en 1981. Avis de la Commission Technique des Beaux-Arts le 04/05/1982. Délibération municipale du 28/06/1989</notes_aquisition_2>
+		<domaine>Sculpture</domaine>
+		<inscription_type_1>Signature</inscription_type_1>
+		<mode_acquisition>Don</mode_acquisition>
+		<numero_acquisition>1980.6</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2036">
+		<mesure_1>Hauteur : 18</mesure_1>
+		<numero_acquisition>1980.6</numero_acquisition>
+		<mesure_3>Profondeur : 4</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1980-01-01</date_acqui>
+		<domaine>Sculpture</domaine>
+		<auteur_1>PRIVAT, Gilbert</auteur_1>
+		<designation_2>bas-relief</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 44.8</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1901-1950</datation_1>
+		<credit_photo>&#169; STC - Mairie de Toulouse</credit_photo>
+		<datation_2>1951-1975</datation_2>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2039">
+		<mesure_1>Hauteur : 18.7</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 9</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1980-01-01</date_acqui>
+		<numero_acquisition>1980.6</numero_acquisition>
+		<auteur_1>PRIVAT, Gilbert</auteur_1>
+		<designation_2>Danseur</designation_2>
+		<mode_acquisition>Don</mode_acquisition>
+		<mesure_2>Largeur : 6.5</mesure_2>
+		<datation_1>1901-1950</datation_1>
+		<credit_photo>&#169; STC - Mairie de Toulouse</credit_photo>
+		<datation_2>1951-1975</datation_2>
+	</oeuvre>
+
+	<oeuvre>
+		<inscription_transcr>FOURCADE 1899</inscription_transcr>
+		<auteur_1>FOURCADE, Dominique Philippe Jean</auteur_1>
+		<designation>Justin Boyer</designation>
+		<matiere>plâtre</matiere>
+		<inscription_type_2>Date</inscription_type_2>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>bd57fa0f2f112dafe23e0b503627f450</id>
+	</oeuvre>
+
+	<oeuvre>
+		<donateur_vendeur>Musée Saint-Raymond</donateur_vendeur>
+		<designation_3>relief</designation_3>
+		<designation>cul de lampe</designation>
+		<matiere>pierre</matiere>
+		<datation_1>1201-1300 ?</datation_1>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>ffe1bedf2a87f5f158481246f40ca188</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2050">
+		<mesure_1>Hauteur : 223</mesure_1>
+		<domaine>Sculpture</domaine>
+		<mesure_3>Profondeur : 42</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<numero_acquisition>8</numero_acquisition>
+		<designation_3>partie d'un ensemble de sculptures</designation_3>
+		<designation_2>statue</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 100</mesure_2>
+		<fonction_usage>décor de meuble</fonction_usage>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<prov_geo>France</prov_geo>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2070">
+		<mesure_1>Hauteur : 31</mesure_1>
+		<numero_acquisition>1984.2</numero_acquisition>
+		<mesure_3>Profondeur : 23</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<domaine>Sculpture</domaine>
+		<designation_2>tête</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 16.5</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1901-1950</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<inscription_emplace>S. à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2071">
+		<mesure_1>Hauteur : 41.5</mesure_1>
+		<numero_acquisition>1984.2</numero_acquisition>
+		<mesure_3>Profondeur : 25</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<domaine>Sculpture</domaine>
+		<designation_2>tête</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<mesure_2>Largeur : 23</mesure_2>
+		<inscription_type_1>Signature</inscription_type_1>
+		<datation_1>1901-1950</datation_1>
+		<credit_photo>&#169; Ville de Toulouse - musée des Augustins</credit_photo>
+		<inscription_emplace>S. à gauche</inscription_emplace>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2084">
+		<auteur_1>Anonyme</auteur_1>
+		<domaine>Sculpture</domaine>
+		<localisation>musée des Augustins</localisation>
+		<date_acqui>1983-01-01</date_acqui>
+		<numero_acquisition>1983.9</numero_acquisition>
+		<designation_2>buste à l'antique</designation_2>
+		<mode_acquisition>Mode d'acquisition particulier</mode_acquisition>
+		<datation_1>1801-1900</datation_1>
+		<datation_2>1901-2000</datation_2>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>Anonyme</auteur_1>
+		<notes_aquisition>Transfert du Conservatoire de Toulouse.</notes_aquisition>
+		<designation>Omer Guiraud</designation>
+		<matiere>plâtre</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>55031fd0af57adf494c0b39c86648836</id>
+	</oeuvre>
+
+	<oeuvre id="inv-augustins-RA_2090">
+		<mesure_1>Hauteur : 48</mesure_1>
+		<mesure_2>Largeur : 35</mesure_2>
+		<mesure_3>Profondeur : 26</mesure_3>
+		<localisation>musée des Augustins</localisation>
+		<domaine>Sculpture</domaine>
+		<designation_2>buste à mi-corps</designation_2>
+		<mode_acquisition>Mode d'acquisition inconnu</mode_acquisition>
+		<datation_1>1901-2000</datation_1>
+		<numero_acquisition>1984.2</numero_acquisition>
+	</oeuvre>
+
+	<oeuvre>
+		<auteur_1>MASSOT, Jean</auteur_1>
+		<designation>Jeanne d'Arc</designation>
+		<matiere>bois</matiere>
+		<image></image>
+		<thumbnail></thumbnail>
+		<id>91b6041dba2bb8a84609b577fa858168</id>
+	</oeuvre>
+
+
+</document>

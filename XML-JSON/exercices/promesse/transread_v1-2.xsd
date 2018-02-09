@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--                                                          -->
+<!--                                                          -->
+<!--             TRANSREAD annotation XML schema              -->
+<!--                                                          -->
+<!--                      Version  1.2                        -->
+<!--                                                          -->
+
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="http://transread.limsi.fr"
+  xmlns="http://transread.limsi.fr"
+  elementFormDefault="qualified">
+
+  <xsd:import namespace="http://www.w3.org/XML/1998/namespace"
+              schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+
+  <xsd:simpleType name="certaintytype">
+    <xsd:restriction base="xsd:decimal">
+      <xsd:minInclusive value="0.0"/>
+      <xsd:maxInclusive value="1.0"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <xsd:simpleType name="qescoretype">
+    <xsd:restriction base="xsd:decimal">
+      <xsd:minInclusive value="0.0"/>
+    </xsd:restriction>
+  </xsd:simpleType>  
+
+  <xsd:simpleType name="shortpostype">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="([0-9]+\.)+[0-9]+-[0-9]+"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <xsd:simpleType name="tmppostype">
+    <xsd:union memberTypes="xsd:IDREF shortpostype"/>
+  </xsd:simpleType>
+
+  <xsd:simpleType name="postype">
+    <xsd:restriction>
+      <xsd:simpleType>
+        <xsd:list itemType="tmppostype"/>
+      </xsd:simpleType>
+      <xsd:pattern value="[0-9a-zA-Z_-]+ ([0-9]+\.)+[0-9]+-[0-9]+"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <xsd:simpleType name="cattype">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="POS"/>
+      <xsd:enumeration value="lemma"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <xsd:simpleType name="annotoption">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="gram"/>
+      <xsd:enumeration value="URI"/>
+      <xsd:enumeration value="QE"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+    <xsd:simpleType name="linkgroupoption">
+      <xsd:restriction base="xsd:string">
+        <xsd:enumeration value="alignment"/>
+        <xsd:enumeration value="annotation"/>
+      </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:simpleType name="methodtype">
+      <xsd:restriction base="xsd:string">
+        <xsd:enumeration value="method1"/>
+      </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:simpleType name="leveltype">
+      <xsd:restriction base="xsd:string">
+        <xsd:enumeration value="sentence"/>
+        <xsd:enumeration value="token"/>
+        <xsd:enumeration value="chunk"/>
+        <xsd:enumeration value="paraphrase"/>
+      </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:complexType name="marktype">
+      <xsd:simpleContent>
+        <xsd:extension base="xsd:string">
+          <xsd:attribute name="cat" type="cattype"/>
+          <xsd:attribute name="resource" type="xsd:string"/>
+          <xsd:attribute ref="xml:lang"/>
+          <xsd:attribute name="entry" type="xsd:string"/>
+          <xsd:attribute name="certainty" type="certaintytype"/>
+          <xsd:attribute name="qescore" type="qescoretype"/>
+          <xsd:attribute name="method" type="methodtype"/>
+        </xsd:extension>
+      </xsd:simpleContent>
+    </xsd:complexType>
+
+  <xsd:complexType name="docspantype">
+    <xsd:simpleContent>
+      <xsd:extension base="xsd:string">
+        <xsd:attribute name="beginPos" type="postype" use="required"/>
+        <xsd:attribute name="endPos" type="postype" use="required"/>
+        <xsd:attribute name="context" type="xsd:IDREFS"/>
+      </xsd:extension>
+    </xsd:simpleContent>
+  </xsd:complexType>
+
+  <xsd:complexType name="annotationtype">
+    <xsd:sequence>
+      <xsd:element name="docSpan" type="docspantype"/>
+      <xsd:element name="mark" type="marktype" maxOccurs="unbounded"/>
+    </xsd:sequence>
+    <xsd:attribute name="type" type="annotoption" use="required"/>
+    <xsd:attribute name="id" type="xsd:ID" use="required"/>
+  </xsd:complexType>
+
+  <xsd:complexType name="linktype">
+    <xsd:sequence>
+      <xsd:element name="docSpan" type="docspantype" minOccurs="1" maxOccurs="unbounded"/>
+    </xsd:sequence>
+    <xsd:attribute name="id" type="xsd:ID" use="required"/>
+    <xsd:attribute name="certainty" type="certaintytype"/>
+  </xsd:complexType>
+
+  <xsd:complexType name="docparttype">
+    <xsd:attribute name="doc" type="xsd:IDREF" use="required"/>
+    <xsd:attribute name="beginPos" type="postype"/>
+    <xsd:attribute name="endPos" type="postype"/>
+  </xsd:complexType>
+
+  <xsd:complexType name="linkgrouptype">
+    <xsd:sequence>
+      <xsd:element name="docPart" type="docparttype" maxOccurs="2"/>
+      <xsd:choice>
+        <xsd:element name="link" type="linktype" minOccurs="0" maxOccurs="unbounded"/>
+        <xsd:element name="annotation" type="annotationtype" minOccurs="0" maxOccurs="unbounded"/>
+      </xsd:choice>
+    </xsd:sequence>
+    <xsd:attribute name="type" type="linkgroupoption" use="required"/>
+  </xsd:complexType>
+
+  <xsd:complexType name="linklisttype">
+    <xsd:sequence>
+      <xsd:element name="linkGroup" type="linkgrouptype" maxOccurs="unbounded"/>
+    </xsd:sequence>
+    <xsd:attribute name="level" type="leveltype"/>
+  </xsd:complexType>
+
+  <xsd:complexType name="typenametype">
+    <xsd:simpleContent>
+      <xsd:extension base="xsd:string">
+        <xsd:attribute name="id" type="xsd:ID" use="required"/>
+      </xsd:extension>
+    </xsd:simpleContent>
+  </xsd:complexType>
+
+  <xsd:complexType name="linktypetype">
+    <xsd:sequence>
+      <xsd:element name="typeName" type="typenametype" maxOccurs="unbounded"/>
+    </xsd:sequence>
+  </xsd:complexType>
+
+
+  <xsd:complexType name="docnametype">
+    <xsd:simpleContent>
+      <xsd:extension base="xsd:string">
+        <xsd:attribute name="id" type="xsd:ID" use="required"/>
+        <xsd:attribute ref="xml:lang"/>
+      </xsd:extension>
+    </xsd:simpleContent>
+  </xsd:complexType>
+
+  <xsd:complexType name="doclisttype">
+    <xsd:sequence>
+      <xsd:element name="docName" type="docnametype" maxOccurs="unbounded"/>
+    </xsd:sequence>
+  </xsd:complexType>
+
+  <xsd:complexType name="trannottype">
+    <xsd:sequence>
+      <xsd:element name="docList" type="doclisttype"/>
+      <xsd:element name="linkType" type="linktypetype" minOccurs="0" maxOccurs="1" />
+      <xsd:element name="linkList" type="linklisttype" maxOccurs="unbounded"/>
+    </xsd:sequence>
+    <xsd:attribute name="version" type="xsd:decimal" use="required"/>
+  </xsd:complexType>
+
+  <xsd:element name="trAnnot" type="trannottype"/>
+</xsd:schema>
